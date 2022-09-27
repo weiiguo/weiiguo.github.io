@@ -1,24 +1,24 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
-# jemdoc: title{Publicastions}
+# jemdoc: title{Publications}
 
 == Publications
 Here is a full list of my publications:
 \n
 
 == Preprints
-- *W. Guo*, C. Huang, X. Qin, L. Yang, and W. Zhang, \"[https://arxiv.org/abs/2205.09316 Dynamic Clustering and Power Control for Two-Tier Wireless Federated Learning]\", submitted to IEEE Journal on Selected Areas in Communications.
+- *W. Guo*, C. Huang, X. Qin, L. Yang, and W. Zhang, \"[https://arxiv.org/abs/2205.09316 Dynamic Clustering and Power Control for Two-Tier Wireless Federated Learning],\" submitted to IEEE Journal on Selected Areas in Communications.
 
 == Selected Journal Papers
-- *W. Guo*, R. Li, C. Huang, X. Qin, K. Shen, and W. Zhang, \"[https://ieeexplore.ieee.org/abstract/document/9793704 Joint Device Selection and Power Control for Wireless Federated Learning]\", IEEE Journal on Selected Areas in Communications, vol. 40, no. 8, pp. 2395-2410, Aug. 2022.
+- *W. Guo*, R. Li, C. Huang, X. Qin, K. Shen, and W. Zhang, \"[https://ieeexplore.ieee.org/abstract/document/9793704 Joint Device Selection and Power Control for Wireless Federated Learning],\" IEEE Journal on Selected Areas in Communications, vol. 40, no. 8, pp. 2395-2410, Aug. 2022.
 
-- *W. Guo*, H. Zhang, and C. Huang \" [https://ieeexplore.ieee.org/abstract/document/9166529 Energy Efficiency of Two-Way Communications under Various Duplex Modes]\", IEEE Internet of Things Journal, vol. 8, no. 3, pp. 1921-1933, Feb. 2021.
+- *W. Guo*, H. Zhang, and C. Huang, \" [https://ieeexplore.ieee.org/abstract/document/9166529 Energy Efficiency of Two-Way Communications under Various Duplex Modes],\" IEEE Internet of Things Journal, vol. 8, no. 3, pp. 1921-1933, Feb. 2021.
 
-- Y. Qi, *W. Guo*, Y. Long, and Y-S. Cao \"Research on a Novel Spectral Amplitude Codes Label Switching System with
+- Y. Qi, *W. Guo*, Y. Long, and Y-S. Cao, \"Research on a Novel Spectral Amplitude Codes Label Switching System with
 Frequency Swept Coherent Detection\" in Journal of the New Industrialization (《新型工业化》), 2016 (in Chinese). \[DOI：10.19335/j.cnki.2095-6649.2016.10.007\]
 
 == Selected Conference Papers
-- *W. Guo*, R. Li, C. Huang, X. Qin, K. Shen, and W. Zhang, \"Optimized Device Selection and Power Control for Wireless Federated Learning\", in IEEE Global Communications Conference (Globecom), 2022.
+- *W. Guo*, R. Li, C. Huang, X. Qin, K. Shen, and W. Zhang, \"Optimized Device Selection and Power Control for Wireless Federated Learning,\" in IEEE Global Communications Conference (Globecom), 2022.
 
-- *W. Guo*, C. Huang, X. Qin, L. Yang, and W. Zhang, \" [https://ieeexplore.ieee.org/abstract/document/9880666 Dynamic Clustering and Power Control for Two-Tier Over-the-Air Federated Learning]\", in IEEE/CIC International Conference on Communications in China (ICCC), 2022.
+- *W. Guo*, C. Huang, X. Qin, L. Yang, and W. Zhang, \" [https://ieeexplore.ieee.org/abstract/document/9880666 Dynamic Clustering and Power Control for Two-Tier Over-the-Air Federated Learning],\" in IEEE/CIC International Conference on Communications in China (ICCC), 2022.
 
-- *W. Guo* and C. Huang, \" [https://ieeexplore.ieee.org/abstract/document/8969307 Energy Efficiency of Full-Duplex Two-Way Channels] \", in IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2019. 
+- *W. Guo* and C. Huang, \" [https://ieeexplore.ieee.org/abstract/document/8969307 Energy Efficiency of Full-Duplex Two-Way Channels],\" in IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2019. 
