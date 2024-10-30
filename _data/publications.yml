@@ -1,0 +1,30 @@
+main:
+
+  - title: "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence"
+    authors: Jiawei Shao, Jingwen Tong, Qiong Wu, <strong>Wei Guo</strong>, Zijian Li, Zehong Lin, Jun Zhang* (*Corresponding authors)
+    conference_short: JCIN
+    conference: J. Commun. Inf. Netw. (JCIN), vol. 9, pp. 99-112, Jun. 2024.
+    pdf: https://ieeexplore.ieee.org/document/10582827
+    image: ./assets/img/JCIN_WirelessLLM.png
+    notes: Cover Article
+
+  - title: "Dynamic Clustering and Power Control for Two-Tier Wireless Federated Learning"
+    authors: <strong>Wei Guo</strong>, Chuan Huang*, Xiaoqi Qin, Lian Yang, Wei Zhang
+    conference_short: TWC
+    conference: IEEE Trans. Wireless Commun. (TWC), vol. 23, no. 2, pp. 1356-1371, Feb. 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10168186
+    image: ./assets/img/TWC_WirelessHFL.png
+
+  - title: "Joint Device Selection and Power Control for Two-Tier Wireless Federated Learning"
+    authors: <strong>Wei Guo</strong>, Ran Li, Chuan Huang*, Xiaoqi Qin, Kaiming Shen, Wei Zhang
+    conference_short: JSAC
+    conference: IEEE J. Sel. Areas Commun. (JSAC), vol. 40, no. 8, pp. 2395-2410, Aug. 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9793704
+    image: ./assets/img/JSAC_WirelessFL.png
+
+  - title: "Energy Efficiency of Two-Way Communications under Various Duplex Modes"
+    authors: <strong>Wei Guo</strong>, Han Zhang*, Chuan Huang
+    conference_short: IoT-J
+    conference: IEEE Internet Things J. (IoT-J), vol. 8, no. 3, pp. 1921-1933, Feb. 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9166529
+    image: ./assets/img/IOT_EE2WayChannel.png
