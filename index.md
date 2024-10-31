@@ -13,7 +13,7 @@ I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engin
 - **[07/2024]** Oral presentation at IEEE MeditCom 2024 in Madrid, Spain.
 - **[06/2024]** Paper "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence" accepted by Jounal of Communications and Information Networks. [\[Paper\]](https://ieeexplore.ieee.org/document/10582827)
 - **[05/2024]** Paper "Model-driven Deep Learning for Distributed Detection in WSNs with Binary Quantization" accepted by IEEE MeditCom 2024. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10621336)
-- **[09/2023]** I joined the Department at ECE at HKUST as Postdoctoral Fellow.
+- **[09/2023]** I joined the Department of ECE at HKUST as Postdoctoral Fellow.
 
 
 {% include_relative _includes/publications.md %}
@@ -23,11 +23,11 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=4dFwT-4AAA
 - Journal Reviewers
 1. IEEE Transactions on Wireless Communications; 
 2. IEEE Transactions on Communications; 
-3. IEEE Wireless Communications Letters; 
-4. IEEE Systems Journal; 
-5. IEEE Transactions on Machine Learning in Communications and Networking; 
-6. IEEE Internet of Things Magazine; 
-7. IEEE Journal on Selected Areas in Information Theory; 
+3. IEEE Journal on Selected Areas in Information Theory;
+4. IEEE Wireless Communications Letters; 
+5. IEEE Systems Journal; 
+6. IEEE Transactions on Machine Learning in Communications and Networking; 
+7. IEEE Internet of Things Magazine;  
 8. China Communications; 
 9. Journal of Communications and Information Networks;
 10. And more...
@@ -35,7 +35,8 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=4dFwT-4AAA
 - Conference Reviewers
 1. IEEE Global Communications Conference (Globecom), 2019-2024; 
 2. IEEE/CIC International Conference on Communications in China (ICCC), 2019-2024.
-3. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
+3. IEEE Wireless Communications and Networking Conference (WCNC), 2024.
+4. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
 
 ## Awards
 - Exemplary Reviewer of IEEE Wireless Communications Letters (2020)

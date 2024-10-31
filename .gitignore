@@ -1,7 +1,6 @@
 .DS_Store
-gw_cv.aux
-gw_cv.log
-gw_cv.out
-gw_cv.synctex.gz
-gw_cv.tex
-HKUST_CV
+assets/files/gw_cv.aux
+assets/files/gw_cv.log
+assets/files/gw_cv.out
+assets/files/gw_cv.synctex.gz
+assets/files/gw_cv.tex
