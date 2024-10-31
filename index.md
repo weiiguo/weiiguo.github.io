@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Engineering (HKUST)](https://www.hkust.edu.hk/), hosted by [Prof. Khaled B. Letaief](https://scholar.google.com/citations?user=6WLhtHgAAAAJ) and [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received the Ph.D. degree in computer and information engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/), China, in 2023, under the supervision of [Prof. Chuan Huang](https://myweb.cuhk.edu.cn/huangchuan) and the B.Eng. in electronic engineering from the [Univeristy of Electronic Science and Techonology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2017.
+I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Engineering (HKUST)](https://www.hkust.edu.hk/), hosted by [Prof. Khaled B. Letaief](https://scholar.google.com/citations?user=6WLhtHgAAAAJ) and [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received the Ph.D. degree in computer and information engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/), China, in 2023, under the supervision of [Prof. Chuan Huang](https://myweb.cuhk.edu.cn/huangchuan) and the B.Eng. in electronic engineering from the [University of Electronic Science and Techonology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2017.
 
 ## News
 
