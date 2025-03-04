@@ -8,6 +8,7 @@ I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engin
 
 ## News
 
+- **[03/2025]** Paper "Joint Beamforming and Antenna Position Optimization for Fluid-Antenna Assisted MU-MIMO Networks" submitted to JSAC.
 - **[09/2024]** Paper "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks" submitted. [\[arxiv\]](https://arxiv.org/abs/2409.07964)
 - **[09/2024]** Poster presentation at [The IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/).
 - **[07/2024]** Oral presentation at IEEE MeditCom 2024 in Madrid, Spain.
