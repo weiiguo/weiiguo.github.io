@@ -3,7 +3,7 @@ layout: homepage
 title: Research
 ---
 
-## Selected Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
+## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
 
 ### Preprints
 
@@ -13,7 +13,7 @@ title: Research
 
 ### Journal Papers
 
-- Jiawei Shao, Jingwen Tong, Qiong Wu, **Wei Guo**, Zijian Li, Zehong Lin, and Jun Zhang, "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence," [Journal of Communications and Information Networks](https://ieeexplore.ieee.org/document/10582827), J. Commun. Inf. Netw. (JCIN), vol. 9, pp. 99-112, Jun. 2024.
+- Jiawei Shao, Jingwen Tong, Qiong Wu, **Wei Guo**, Zijian Li, Zehong Lin, and Jun Zhang, "[WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence](https://ieeexplore.ieee.org/document/10582827)," Journal of Communications and Information Networks, J. Commun. Inf. Netw. (JCIN), vol. 9, pp. 99-112, Jun. 2024.
 
 - **Wei Guo**, Chuan Huang, Xiaoqi Qin, Lian Yang, and Wei Zhang, "[Dynamic Clustering and Power Control for Two-Tier Wireless Federated Learning](https://ieeexplore.ieee.org/abstract/document/10168186)," IEEE Trans. Wireless Commun. (TWC), vol. 23, no. 2, pp. 1356-1371, Feb. 2024.
 
