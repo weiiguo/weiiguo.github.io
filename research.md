@@ -3,7 +3,7 @@ layout: homepage
 title: Research
 ---
 
-## Publications [\[Google Scholar\]](https://scholar.google.com/citations?user=4dFwT-4AAAAJ)
+## Publications [<small>[Google Scholar]</small>](https://scholar.google.com/citations?user=4dFwT-4AAAAJ)
 
 ### Journal Papers
 
