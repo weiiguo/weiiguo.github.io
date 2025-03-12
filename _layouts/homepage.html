@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }} | {{site.affiliation}}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,13 +29,72 @@
     {% if site.auto_dark_mode %}
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
+    <link rel="stylesheet" href="./assets/css/navigation.css">
     {% else %}
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
+    <link rel="stylesheet" href="./assets/css/navigation.css">
     {% endif %}
+
+    <style>
+      /* 移动端侧边栏样式调整 */
+      @media screen and (max-width: 768px) {
+        .wrapper header {
+          text-align: center;
+          width: 100% !important;
+          float: none !important;
+          position: static !important;
+          margin-bottom: 30px;
+          padding-top: 10px;
+        }
+        
+        .wrapper section {
+          width: 100% !important;
+          float: none !important;
+          margin-left: 0 !important;
+        }
+        
+        /* 在移动设备上隐藏重复的标题，因为已经在导航栏中显示 */
+        header h1 {
+          display: none;
+        }
+        
+        /* 确保头像居中 */
+        .image.avatar {
+          display: block;
+          text-align: center;
+          margin: 0 auto;
+        }
+        
+        .image.avatar img {
+          margin: 0 auto;
+          display: inline-block;
+        }
+        
+        /* 确保所有文本都居中 */
+        .wrapper header position,
+        .wrapper header email,
+        .wrapper header autocolor,
+        .wrapper header a {
+          display: block;
+          text-align: center;
+          margin: 0 auto;
+        }
+        
+        /* 社交媒体图标居中 */
+        .social-icons {
+          display: flex;
+          justify-content: center;
+          margin: 10px auto;
+        }
+      }
+    </style>
 
   </head>
   <body>
+    <!-- 导航栏放在页面最顶部 -->
+    {% include navigation.html %}
+    
     <div class="wrapper">
       <header>
         

@@ -1,0 +1,42 @@
+<nav class="site-nav">
+  <div class="nav-container">
+    <div class="nav-logo">
+      <!-- 移除标题 -->
+    </div>
+    <div class="nav-toggle" id="navToggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    <ul class="nav-links" id="navLinks">
+      {% for item in site.data.navigation.main %}
+        <li class="nav-item">
+          <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const navToggle = document.getElementById('navToggle');
+    const navLinks = document.getElementById('navLinks');
+    
+    navToggle.addEventListener('click', function() {
+      navLinks.classList.toggle('show');
+      navToggle.classList.toggle('active');
+    });
+    
+    // 点击链接后关闭菜单
+    const navItems = document.querySelectorAll('.nav-item');
+    navItems.forEach(item => {
+      item.addEventListener('click', function() {
+        if (window.innerWidth <= 768) {
+          navLinks.classList.remove('show');
+          navToggle.classList.remove('active');
+        }
+      });
+    });
+  });
+</script> 

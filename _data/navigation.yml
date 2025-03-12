@@ -1,0 +1,9 @@
+# 主导航栏配置
+# 要添加或删除导航项，只需在此文件中添加或删除条目
+# 每个条目格式为：name: 显示名称，url: 链接地址
+
+main:
+  - name: Home
+    url: /
+  - name: Research
+    url: /research.html
