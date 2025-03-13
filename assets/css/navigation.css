@@ -12,13 +12,14 @@
 
 .nav-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center; /* 居中对齐 */
   align-items: center;
   padding: 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   width: 100%;
+  max-width: 1200px; /* 添加最大宽度 */
   box-sizing: border-box;
-  margin: 0;
+  margin: 0 auto; /* 居中容器 */
   height: 60px; /* 桌面版高度 */
 }
 
@@ -30,6 +31,7 @@
   padding: 0 20px;
   height: 100%;
   justify-content: center; /* 水平居中 */
+  margin-right: auto; /* 使logo靠左但整体布局更居中 */
 }
 
 .nav-logo-img {
@@ -54,6 +56,7 @@
   align-items: center;
   height: 100%;
   justify-content: center; /* 水平居中 */
+  margin-left: 20px; /* 添加左侧间距，使整体更居中 */
 }
 
 .nav-item {
@@ -176,6 +179,7 @@
   .nav-container {
     padding: 0;
     height: 50px; /* 移动端高度 */
+    max-width: 100%; /* 移动端全宽 */
   }
   
   .nav-logo {
@@ -225,14 +229,14 @@
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.3s ease;
+    transition: max-height 0.5s ease;
     z-index: 1001;
     padding: 0; /* 重置padding */
   }
   
   .nav-links.show {
-    max-height: 300px; /* 确保足够高以显示所有菜单项 */
-    overflow-y: auto; /* 如果菜单项太多，添加滚动条 */
+    max-height: 500px; /* 增加高度确保所有菜单项都能显示 */
+    overflow-y: visible; /* 改为visible确保所有内容都显示 */
   }
   
   .nav-item {

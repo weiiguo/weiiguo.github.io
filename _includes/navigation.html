@@ -30,6 +30,15 @@
       e.preventDefault();
       navLinks.classList.toggle('show');
       navToggle.classList.toggle('active');
+      
+      // 添加强制重绘代码，确保所有菜单项立即显示
+      if (navLinks.classList.contains('show')) {
+        // 强制浏览器重新计算布局
+        navLinks.style.display = 'none';
+        setTimeout(function() {
+          navLinks.style.display = '';
+        }, 10);
+      }
     });
     
     // 点击链接后关闭菜单
