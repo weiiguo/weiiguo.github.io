@@ -229,14 +229,22 @@
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.5s ease;
+    transition: all 0.3s ease-in-out;
     z-index: 1001;
     padding: 0; /* 重置padding */
+    display: flex; /* 确保是flex布局 */
+    opacity: 0; /* 初始状态不可见 */
+    visibility: hidden; /* 初始状态隐藏 */
+    transform: translateY(-10px); /* 初始状态向上偏移 */
   }
   
   .nav-links.show {
-    max-height: 500px; /* 增加高度确保所有菜单项都能显示 */
-    overflow-y: visible; /* 改为visible确保所有内容都显示 */
+    max-height: 1000px; /* 设置足够大的高度 */
+    overflow-y: visible;
+    opacity: 1; /* 显示状态完全可见 */
+    padding: 10px 0; /* 添加一些内边距 */
+    visibility: visible; /* 显示状态可见 */
+    transform: translateY(0); /* 显示状态无偏移 */
   }
   
   .nav-item {
@@ -245,6 +253,8 @@
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     height: auto;
     display: block; /* 确保每个项目都是块级元素 */
+    opacity: 1; /* 确保项目可见 */
+    transition: opacity 0.2s ease-in-out;
   }
   
   .nav-link {
