@@ -24,72 +24,47 @@
   document.addEventListener('DOMContentLoaded', function() {
     const navToggle = document.getElementById('navToggle');
     const navLinks = document.getElementById('navLinks');
+    let isMenuOpen = false;
     
-    // 预加载菜单项，确保它们已经在DOM中
-    function preloadMenuItems() {
-      // 强制浏览器加载菜单项
-      const tempShow = document.createElement('style');
-      tempShow.innerHTML = '.nav-links { max-height: auto !important; opacity: 0.01; }';
-      document.head.appendChild(tempShow);
-      
-      // 短暂延迟后移除临时样式
-      setTimeout(function() {
-        document.head.removeChild(tempShow);
-      }, 50);
+    // 打开菜单
+    function openMenu() {
+      navLinks.classList.add('show');
+      navToggle.classList.add('active');
+      navLinks.style.display = 'block';
+      // 强制重排以确保高度计算正确
+      void navLinks.offsetHeight;
+      navLinks.style.opacity = '1';
+      isMenuOpen = true;
     }
     
-    // 页面加载时预加载菜单项
-    preloadMenuItems();
+    // 关闭菜单
+    function closeMenu() {
+      navLinks.classList.remove('show');
+      navToggle.classList.remove('active');
+      navLinks.style.opacity = '0';
+      isMenuOpen = false;
+      
+      // 等待过渡效果完成后隐藏菜单
+      setTimeout(function() {
+        if (!isMenuOpen) {
+          navLinks.style.display = 'none';
+        }
+      }, 300);
+    }
     
-    // 备用方案：直接设置内联样式
-    function applyInlineStyles() {
-      const navItems = navLinks.querySelectorAll('.nav-item');
-      navItems.forEach(function(item) {
-        item.style.display = 'block';
-        item.style.width = '100%';
-        item.style.textAlign = 'center';
-        item.style.opacity = '1';
-      });
+    // 切换菜单状态
+    function toggleMenu() {
+      if (isMenuOpen) {
+        closeMenu();
+      } else {
+        openMenu();
+      }
     }
     
     // 确保汉堡菜单按钮正常工作
     navToggle.addEventListener('click', function(e) {
       e.preventDefault();
-      
-      // 切换菜单显示状态
-      const isShowing = !navLinks.classList.contains('show');
-      navLinks.classList.toggle('show');
-      navToggle.classList.toggle('active');
-      
-      // 如果是显示菜单，确保所有项目立即可见
-      if (isShowing) {
-        // 强制重绘
-        navLinks.style.display = 'none';
-        navLinks.offsetHeight; // 触发重排
-        navLinks.style.display = 'flex';
-        
-        // 确保所有菜单项可见
-        const navItems = navLinks.querySelectorAll('.nav-item');
-        navItems.forEach(function(item, index) {
-          item.style.opacity = '0';
-          setTimeout(function() {
-            item.style.opacity = '1';
-          }, 10);
-        });
-        
-        // 应用备用内联样式
-        setTimeout(applyInlineStyles, 50);
-        
-        // 额外的备用方案：如果菜单仍然不可见，尝试再次强制显示
-        setTimeout(function() {
-          if (isShowing) {
-            navLinks.style.maxHeight = '1000px';
-            navLinks.style.opacity = '1';
-            navLinks.style.visibility = 'visible';
-            applyInlineStyles();
-          }
-        }, 100);
-      }
+      toggleMenu();
     });
     
     // 点击链接后关闭菜单
@@ -97,8 +72,7 @@
     navItems.forEach(item => {
       item.addEventListener('click', function() {
         if (window.innerWidth <= 768) {
-          navLinks.classList.remove('show');
-          navToggle.classList.remove('active');
+          closeMenu();
         }
       });
     });
@@ -106,8 +80,13 @@
     // 确保在窗口调整大小时重置菜单状态
     window.addEventListener('resize', function() {
       if (window.innerWidth > 768) {
+        // 重置为桌面样式
         navLinks.classList.remove('show');
         navToggle.classList.remove('active');
+        navLinks.style.display = '';
+        navLinks.style.opacity = '';
+        navLinks.style.height = '';
+        isMenuOpen = false;
       }
     });
   });
