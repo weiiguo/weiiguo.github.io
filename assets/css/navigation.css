@@ -180,6 +180,9 @@
     width: 100%;
     position: fixed;
     z-index: 1000;
+    left: 0;
+    right: 0;
+    top: 0;
   }
   
   .nav-container {
@@ -187,6 +190,8 @@
     height: 50px; /* 移动端高度 */
     max-width: 100%; /* 移动端全宽 */
     justify-content: space-between; /* 确保logo和汉堡按钮分别在两端 */
+    width: 100%; /* 确保宽度100% */
+    margin: 0; /* 重置margin */
   }
   
   .nav-logo {
@@ -228,29 +233,37 @@
   
   .nav-links {
     flex-direction: column;
-    position: absolute;
+    position: fixed; /* 改为fixed定位 */
     top: 50px; /* 与移动端导航栏高度一致 */
     left: 0;
-    right: 0; /* 确保右侧也对齐 */
-    width: 100%; /* 确保宽度100% */
+    right: 0;
+    width: 100%; /* 使用百分比宽度 */
     background-color: #003366;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
-    height: 0; /* 使用height代替max-height */
+    height: 0;
     overflow: hidden;
-    transition: height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
     z-index: 1001;
-    padding: 0; /* 重置padding */
-    display: none; /* 初始状态不显示 */
-    opacity: 0; /* 初始状态不可见 */
-    margin: 0; /* 重置margin */
+    padding: 0;
+    display: none;
+    opacity: 0;
+    margin: 0;
+    box-sizing: border-box; /* 确保padding不会增加宽度 */
   }
   
   .nav-links.show {
-    height: auto; /* 自适应高度 */
-    display: block; /* 显示为块级元素 */
-    opacity: 1; /* 显示状态完全可见 */
-    padding: 0; /* 不添加内边距 */
-    overflow: visible; /* 确保内容可见 */
+    height: auto;
+    display: block;
+    opacity: 1;
+    padding: 0;
+    overflow: visible;
+    /* 计算高度为视口高度减去导航栏高度 */
+    max-height: calc(100vh - 50px);
+    overflow-y: auto; /* 如果内容过多，允许滚动 */
+    bottom: 0; /* 延伸到底部 */
+    left: 0; /* 确保左侧对齐 */
+    right: 0; /* 确保右侧对齐 */
+    width: 100%; /* 确保宽度100% */
   }
   
   .nav-item {
@@ -258,9 +271,10 @@
     text-align: center;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     height: auto;
-    display: block; /* 确保每个项目都是块级元素 */
-    margin: 0; /* 移除外边距 */
-    padding: 0; /* 移除内边距 */
+    display: block;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* 确保padding不会增加宽度 */
   }
   
   .nav-item:last-child {
@@ -268,15 +282,32 @@
   }
   
   .nav-link {
-    padding: 15px; /* 增加内边距使点击区域更大 */
+    padding: 15px;
     width: 100%;
     box-sizing: border-box;
-    font-size: 1rem; /* 恢复正常字体大小 */
+    font-size: 1rem;
     height: auto;
-    justify-content: center; /* 移动端文字居中 */
-    display: block; /* 确保链接是块级元素 */
-    text-align: center; /* 文字居中 */
-    margin: 0; /* 移除外边距 */
+    justify-content: center;
+    display: block;
+    text-align: center;
+    margin: 0;
+    color: #fff; /* 确保文字颜色 */
+  }
+  
+  /* 添加全屏覆盖样式 */
+  .nav-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    display: none;
+  }
+  
+  .nav-overlay.show {
+    display: block;
   }
   
   .wrapper {

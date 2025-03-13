@@ -19,28 +19,52 @@
     </ul>
   </div>
 </nav>
+<div class="nav-overlay" id="navOverlay"></div>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const navToggle = document.getElementById('navToggle');
     const navLinks = document.getElementById('navLinks');
+    const navOverlay = document.getElementById('navOverlay');
     let isMenuOpen = false;
     
     // 打开菜单
     function openMenu() {
+      // 先设置显示，以便计算高度
+      navLinks.style.display = 'block';
+      navLinks.style.height = 'auto';
+      navLinks.style.opacity = '0';
+      
+      // 获取实际高度
+      const height = navLinks.scrollHeight;
+      
+      // 应用过渡效果
       navLinks.classList.add('show');
       navToggle.classList.add('active');
-      navLinks.style.display = 'block';
-      // 强制重排以确保高度计算正确
+      navOverlay.classList.add('show');
+      
+      // 强制重排
       void navLinks.offsetHeight;
+      
+      // 设置可见
       navLinks.style.opacity = '1';
+      
+      // 确保菜单铺满宽度
+      navLinks.style.width = '100%';
+      navLinks.style.left = '0';
+      navLinks.style.right = '0';
+      
       isMenuOpen = true;
+      
+      // 禁止背景滚动
+      document.body.style.overflow = 'hidden';
     }
     
     // 关闭菜单
     function closeMenu() {
       navLinks.classList.remove('show');
       navToggle.classList.remove('active');
+      navOverlay.classList.remove('show');
       navLinks.style.opacity = '0';
       isMenuOpen = false;
       
@@ -48,6 +72,10 @@
       setTimeout(function() {
         if (!isMenuOpen) {
           navLinks.style.display = 'none';
+          navLinks.style.height = '0';
+          
+          // 恢复背景滚动
+          document.body.style.overflow = '';
         }
       }, 300);
     }
@@ -67,6 +95,13 @@
       toggleMenu();
     });
     
+    // 点击覆盖层关闭菜单
+    navOverlay.addEventListener('click', function() {
+      if (isMenuOpen) {
+        closeMenu();
+      }
+    });
+    
     // 点击链接后关闭菜单
     const navItems = document.querySelectorAll('.nav-link');
     navItems.forEach(item => {
@@ -83,10 +118,15 @@
         // 重置为桌面样式
         navLinks.classList.remove('show');
         navToggle.classList.remove('active');
+        navOverlay.classList.remove('show');
         navLinks.style.display = '';
         navLinks.style.opacity = '';
         navLinks.style.height = '';
+        navLinks.style.width = '';
         isMenuOpen = false;
+        
+        // 恢复背景滚动
+        document.body.style.overflow = '';
       }
     });
   });
