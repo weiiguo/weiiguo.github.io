@@ -56,8 +56,8 @@
       
       isMenuOpen = true;
       
-      // 禁止背景滚动
-      document.body.style.overflow = 'hidden';
+      // 不再禁止背景滚动，只禁止菜单下方内容滚动
+      // document.body.style.overflow = 'hidden';
     }
     
     // 关闭菜单
@@ -75,7 +75,7 @@
           navLinks.style.height = '0';
           
           // 恢复背景滚动
-          document.body.style.overflow = '';
+          // document.body.style.overflow = '';
         }
       }, 300);
     }
@@ -102,12 +102,19 @@
       }
     });
     
-    // 点击链接后关闭菜单
+    // 确保导航链接可点击，但在点击后关闭菜单
     const navItems = document.querySelectorAll('.nav-link');
     navItems.forEach(item => {
-      item.addEventListener('click', function() {
-        if (window.innerWidth <= 768) {
-          closeMenu();
+      // 移除之前可能添加的事件监听器
+      item.removeEventListener('click', closeMenu);
+      
+      // 不再阻止链接的默认行为，让链接正常工作
+      // 但在点击后关闭菜单
+      item.addEventListener('click', function(e) {
+        // 不阻止默认行为，允许链接正常导航
+        if (window.innerWidth <= 768 && isMenuOpen) {
+          // 延迟关闭菜单，确保链接点击事件先执行
+          setTimeout(closeMenu, 100);
         }
       });
     });
@@ -126,7 +133,7 @@
         isMenuOpen = false;
         
         // 恢复背景滚动
-        document.body.style.overflow = '';
+        // document.body.style.overflow = '';
       }
     });
   });

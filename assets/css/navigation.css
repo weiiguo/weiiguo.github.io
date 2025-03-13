@@ -257,13 +257,15 @@
     opacity: 1;
     padding: 0;
     overflow: visible;
-    /* 计算高度为视口高度减去导航栏高度 */
-    max-height: calc(100vh - 50px);
-    overflow-y: auto; /* 如果内容过多，允许滚动 */
-    bottom: 0; /* 延伸到底部 */
+    /* 只显示菜单项的实际高度，而不是整个视口高度 */
+    max-height: fit-content;
+    overflow-y: visible; /* 不需要滚动 */
+    /* 不再延伸到底部 */
+    /* bottom: 0; */
     left: 0; /* 确保左侧对齐 */
     right: 0; /* 确保右侧对齐 */
     width: 100%; /* 确保宽度100% */
+    position: absolute; /* 改为绝对定位，只占用需要的空间 */
   }
   
   .nav-item {
@@ -292,17 +294,29 @@
     text-align: center;
     margin: 0;
     color: #fff; /* 确保文字颜色 */
+    /* 确保链接可点击 */
+    pointer-events: auto;
+    cursor: pointer;
+    text-decoration: none; /* 确保没有下划线 */
+  }
+  
+  .nav-link:hover, 
+  .nav-link:active,
+  .nav-link:focus {
+    background-color: #004080; /* 悬停时的背景色 */
+    color: #fff;
+    text-decoration: none;
   }
   
   /* 添加全屏覆盖样式 */
   .nav-overlay {
     position: fixed;
-    top: 0;
+    top: 50px; /* 从导航栏下方开始 */
     left: 0;
     right: 0;
     bottom: 0;
     background-color: rgba(0, 0, 0, 0.5);
-    z-index: 1000;
+    z-index: 999; /* 低于导航菜单的z-index */
     display: none;
   }
   
