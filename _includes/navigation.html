@@ -25,13 +25,15 @@
     const navToggle = document.getElementById('navToggle');
     const navLinks = document.getElementById('navLinks');
     
-    navToggle.addEventListener('click', function() {
+    // 确保汉堡菜单按钮正常工作
+    navToggle.addEventListener('click', function(e) {
+      e.preventDefault();
       navLinks.classList.toggle('show');
       navToggle.classList.toggle('active');
     });
     
     // 点击链接后关闭菜单
-    const navItems = document.querySelectorAll('.nav-item');
+    const navItems = document.querySelectorAll('.nav-link');
     navItems.forEach(item => {
       item.addEventListener('click', function() {
         if (window.innerWidth <= 768) {
@@ -39,6 +41,14 @@
           navToggle.classList.remove('active');
         }
       });
+    });
+    
+    // 确保在窗口调整大小时重置菜单状态
+    window.addEventListener('resize', function() {
+      if (window.innerWidth > 768) {
+        navLinks.classList.remove('show');
+        navToggle.classList.remove('active');
+      }
     });
   });
 </script> 
