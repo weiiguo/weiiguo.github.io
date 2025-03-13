@@ -4,6 +4,7 @@
   position: fixed;
   top: 0;
   left: 0;
+  right: 0;
   z-index: 1000;
   margin-bottom: 0;
   background-color: #003366; /* Pantone 295 */
@@ -13,12 +14,12 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 20px;
+  padding: 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   width: 100%;
   box-sizing: border-box;
-  margin: 0 auto;
-  height: 50px; /* 桌面版高度 */
+  margin: 0;
+  height: 60px; /* 增加桌面版高度 */
 }
 
 .nav-logo {
@@ -26,27 +27,32 @@
   font-size: 1.2rem;
   display: flex;
   align-items: center;
+  padding: 0 20px;
+  height: 100%;
+  background-color: white; /* 添加白色背景以突出显示logo */
 }
 
 .nav-logo-img {
-  height: 30px;
+  height: 45px; /* 增加logo尺寸 */
   width: auto;
   margin-right: 10px;
 }
 
 .nav-logo a {
   text-decoration: none;
-  color: #fff;
+  color: #003366; /* 改为蓝色以匹配主题 */
   display: flex;
   align-items: center;
+  height: 100%;
 }
 
 .nav-links {
   display: flex;
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 0 20px 0 0; /* 右侧添加padding */
   align-items: center;
+  height: 100%;
 }
 
 .nav-item {
@@ -127,13 +133,20 @@
 
 /* 夜间模式样式 */
 @media (prefers-color-scheme: dark) {
+  .site-nav {
+    background-color: #003366; /* Pantone 295 */
+  }
+  
   .nav-container {
-    background-color: #003366; /* Keep the same blue in dark mode */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   }
   
+  .nav-logo {
+    background-color: white; /* 保持logo背景为白色 */
+  }
+  
   .nav-logo a {
-    color: #fff;
+    color: #003366;
   }
   
   .nav-link {
@@ -158,14 +171,24 @@
 /* 响应式设计 - 移动设备 */
 @media screen and (max-width: 768px) {
   .nav-container {
+    padding: 0;
+    height: 50px; /* 增加移动端高度 */
+  }
+  
+  .nav-logo {
     padding: 0 12px;
-    height: 40px; /* 移动端更小的高度 */
+    height: 100%;
+  }
+  
+  .nav-logo-img {
+    height: 35px; /* 调整移动端logo尺寸 */
   }
   
   .nav-toggle {
     display: block;
     width: 18px; /* 移动端更小的宽度 */
     height: 14px; /* 移动端更小的高度 */
+    margin-right: 15px; /* 添加右侧间距 */
   }
   
   .nav-toggle span:nth-child(1) {
@@ -191,7 +214,7 @@
   .nav-links {
     flex-direction: column;
     position: absolute;
-    top: 40px; /* 与移动端导航栏高度一致 */
+    top: 50px; /* 与移动端导航栏高度一致 */
     left: 0;
     width: 100%;
     background-color: #003366;
@@ -200,6 +223,7 @@
     overflow: hidden;
     transition: max-height 0.3s ease;
     z-index: 1000;
+    padding: 0; /* 重置padding */
   }
   
   .nav-links.show {
@@ -220,7 +244,7 @@
   }
   
   .wrapper {
-    padding-top: 40px !important; /* 与移动端导航栏高度一致 */
+    padding-top: 50px !important; /* 与移动端导航栏高度一致 */
   }
   
   @media (prefers-color-scheme: dark) {
