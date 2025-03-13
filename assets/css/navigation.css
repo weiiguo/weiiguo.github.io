@@ -29,18 +29,17 @@
   align-items: center;
   padding: 0 20px;
   height: 100%;
-  background-color: white; /* 添加白色背景以突出显示logo */
 }
 
 .nav-logo-img {
-  height: 45px; /* 增加logo尺寸 */
+  height: 45px; /* 保持logo尺寸 */
   width: auto;
   margin-right: 10px;
 }
 
 .nav-logo a {
   text-decoration: none;
-  color: #003366; /* 改为蓝色以匹配主题 */
+  color: #fff; /* 改回白色以匹配导航栏 */
   display: flex;
   align-items: center;
   height: 100%;
@@ -128,7 +127,7 @@
 
 /* 添加页面内容的上边距，为固定导航栏腾出空间 */
 .wrapper {
-  padding-top: 50px !important; /* 与导航栏高度一致 */
+  padding-top: 60px !important; /* 与导航栏高度一致 */
 }
 
 /* 夜间模式样式 */
@@ -141,12 +140,8 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   }
   
-  .nav-logo {
-    background-color: white; /* 保持logo背景为白色 */
-  }
-  
   .nav-logo a {
-    color: #003366;
+    color: #fff;
   }
   
   .nav-link {
