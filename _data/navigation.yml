@@ -5,5 +5,5 @@
 main:
   - name: Home
     url: /
-  - name: Research
-    url: /research.html
+  - name: Academics
+    url: /academics.html

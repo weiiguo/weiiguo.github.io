@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Research
+title: Academics
 ---
 
 ## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
