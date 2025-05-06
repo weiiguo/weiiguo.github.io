@@ -9,7 +9,7 @@ title: Academics
 
 - Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Joint Beamforming and Antenna Position Optimization for Fluid Antenna Assisted MU-MIMO Networks,", 2025. [\[arXiv\]](https://arxiv.org/abs/2503.04040)
 
-- Jingwen Tong, Jiawei Shao, Qiong Wu, **Wei Guo**, Zijian Li, Zehong Lin, and Jun Zhang, "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks," 2024. [\[arXiv\]](https://arxiv.org/abs/2409.07964)
+- Jingwen Tong, **Wei Guo**, Jiawei Shao, Qiong Wu, Zijian Li, Zehong Lin, and Jun Zhang, "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks," 2025. [\[arXiv\]](https://arxiv.org/abs/2505.01074)
 
 ### Journal Papers
 
