@@ -8,6 +8,7 @@ I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engin
 
 ## News
 
+- **[05/2025]** Two papers about fluid antenna systems [\[arXiv\]](https://arxiv.org/abs/2505.04930) [\[arXiv\]](https://arxiv.org/abs/2505.04936) submitted to IEEE Globecom 2025.
 - **[05/2025]** Paper "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks" extended to a jouirnal version and submitted to a journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2505.01074) [\[Code\]](https://github.com/jwentong/WirelessAgent_R1) [\[Video demo\]](https://www.youtube.com/watch?v=4fqADkT_XMc)
 - **[03/2025]** Paper "Joint Beamforming and Antenna Position Optimization for Fluid-Antenna Assisted MU-MIMO Networks" submitted to IEEE JSAC. [\[arXiv\]](https://arxiv.org/abs/2503.04040)
 - **[09/2024]** Paper "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks" submitted. [\[arXiv\]](https://arxiv.org/abs/2409.07964)
