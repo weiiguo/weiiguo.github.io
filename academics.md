@@ -6,6 +6,9 @@ title: Academics
 ## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
 
 ### Preprints
+- Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Accurate and Fast Channel Estimation for Fluid Antenna Systems with Diffusion Models," 2025. [\[arXiv\]](https://arxiv.org/abs/2505.04930)
+
+- Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Fluid Antenna-Assisted MU-MIMO Systems with Decentralized Baseband Processing," 2025. [\[arXiv\]](https://arxiv.org/abs/2505.04936)
 
 - Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Joint Beamforming and Antenna Position Optimization for Fluid Antenna Assisted MU-MIMO Networks,", 2025. [\[arXiv\]](https://arxiv.org/abs/2503.04040)
 
