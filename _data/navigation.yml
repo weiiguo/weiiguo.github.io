@@ -7,3 +7,5 @@ main:
     url: /
   - name: Academics
     url: /academics.html
+  - name: Miscellaneous
+    url: /miscellaneous/
