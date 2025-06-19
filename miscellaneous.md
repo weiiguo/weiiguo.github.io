@@ -1,7 +1,6 @@
 ---
 layout: homepage
 title: Miscellaneous
-permalink: /miscellaneous/
 ---
 
 ## Daily arXiv Paper Summary
