@@ -6,6 +6,8 @@ title: Academics
 ## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
 
 ### Preprints
+- Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui, "Point Cloud Environment-Based Channel Knowledge Map Construction", 2025. [\[arXiv\]](https://arxiv.org/abs/2506.21112)
+
 - Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Accurate and Fast Channel Estimation for Fluid Antenna Systems with Diffusion Models," 2025. [\[arXiv\]](https://arxiv.org/abs/2505.04930)
 
 - Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Fluid Antenna-Assisted MU-MIMO Systems with Decentralized Baseband Processing," 2025. [\[arXiv\]](https://arxiv.org/abs/2505.04936)
