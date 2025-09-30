@@ -8,6 +8,7 @@ I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engin
 
 ## News
 
+- **[09/2025]** Paper "Joint Beamforming and Antenna Position Optimization for Fluid-Antenna Assisted MU-MIMO Networks" accepted by IEEE JSAC. Congrats to Tianyi![\[Paper\]](https://ieeexplore.ieee.org/document/11184595)
 - **[06/2025]** Paper "Point Cloud Environment-Based Channel Knowledge Map Construction" submitted to an IEEE Journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2506.21112)
 - **[05/2025]** Two papers about fluid antenna systems submitted to IEEE Globecom 2025. [\[arXiv\]](https://arxiv.org/abs/2505.04930) [\[arXiv\]](https://arxiv.org/abs/2505.04936)
 - **[05/2025]** Paper "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks" extended to a jouirnal version and submitted to China Communications. [\[arXiv\]](https://arxiv.org/abs/2505.01074) [\[Code\]](https://github.com/jwentong/WirelessAgent_R1) [\[Video demo\]](https://www.youtube.com/watch?v=4fqADkT_XMc)
