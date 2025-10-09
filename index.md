@@ -18,6 +18,7 @@ I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engin
 - **[07/2024]** Oral presentation at IEEE MeditCom 2024 in Madrid, Spain.
 - **[06/2024]** Paper "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence" accepted by Jounal of Communications and Information Networks. [\[Paper\]](https://ieeexplore.ieee.org/document/10582827)
 - **[05/2024]** Paper "Model-driven Deep Learning for Distributed Detection in WSNs with Binary Quantization" accepted by IEEE MeditCom 2024. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10621336)
+- **[09/2023]** I joined the Department of ECE at HKUST as Postdoctoral Fellow.
 
 
 {% include_relative _includes/publications.md %}
