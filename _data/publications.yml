@@ -1,7 +1,14 @@
 main:
 
+  - title: "Joint Beamforming and Antenna Position Optimization for Fluid Antenna-Assisted MU-MIMO Networks"
+    authors: Tianyi Liao, <strong>Wei Guo</strong>* (*Corresponding authors), Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief
+    conference_short: JSAC
+    conference: IEEE J. Sel. Areas Commun. (JSAC), early access, 2025
+    pdf: https://ieeexplore.ieee.org/document/11184595
+    image: ./assets/img/JSAC_FAS-MIMO.png
+
   - title: "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence"
-    authors: Jiawei Shao, Jingwen Tong, Qiong Wu, <strong>Wei Guo</strong>, Zijian Li, Zehong Lin, Jun Zhang* (*Corresponding authors)
+    authors: Jiawei Shao, Jingwen Tong, Qiong Wu, <strong>Wei Guo</strong>, Zijian Li, Zehong Lin, Jun Zhang*
     conference_short: JCIN
     conference: J. Commun. Inf. Netw. (JCIN), vol. 9, pp. 99-112, Jun. 2024.
     pdf: https://ieeexplore.ieee.org/document/10582827
