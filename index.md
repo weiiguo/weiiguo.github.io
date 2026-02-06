@@ -8,12 +8,11 @@ I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engin
 
 ## News
 
+- **[11/2025]** Paper "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks" accepted by China Communications. [\[arXiv\]](https://arxiv.org/abs/2505.01074) [\[Code\]](https://github.com/jwentong/WirelessAgent_R1) [\[Video demo\]](https://www.youtube.com/watch?v=4fqADkT_XMc)
 - **[09/2025]** Paper "Joint Beamforming and Antenna Position Optimization for Fluid-Antenna Assisted MU-MIMO Networks" accepted by IEEE JSAC. Congrats to Tianyi! [\[Paper\]](https://ieeexplore.ieee.org/document/11184595)[\[Code\]](https://github.com/liaotianyi0114/FAS-MIMO-WSR-Maximization)
 - **[06/2025]** Paper "Point Cloud Environment-Based Channel Knowledge Map Construction" submitted to an IEEE Journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2506.21112)
 - **[05/2025]** Two papers about fluid antenna systems submitted to IEEE Globecom 2025. [\[arXiv\]](https://arxiv.org/abs/2505.04930) [\[arXiv\]](https://arxiv.org/abs/2505.04936)
-- **[05/2025]** Paper "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks" extended to a jouirnal version and submitted to China Communications. [\[arXiv\]](https://arxiv.org/abs/2505.01074) [\[Code\]](https://github.com/jwentong/WirelessAgent_R1) [\[Video demo\]](https://www.youtube.com/watch?v=4fqADkT_XMc)
 - **[03/2025]** Paper "Joint Beamforming and Antenna Position Optimization for Fluid-Antenna Assisted MU-MIMO Networks" submitted to IEEE JSAC. [\[arXiv\]](https://arxiv.org/abs/2503.04040)
-- **[09/2024]** Paper "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks" submitted. [\[arXiv\]](https://arxiv.org/abs/2409.07964)
 - **[09/2024]** Poster presentation at [The IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/).
 - **[07/2024]** Oral presentation at IEEE MeditCom 2024 in Madrid, Spain.
 - **[06/2024]** Paper "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence" accepted by Jounal of Communications and Information Networks. [\[Paper\]](https://ieeexplore.ieee.org/document/10582827)
