@@ -8,9 +8,12 @@ I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engin
 
 ## News
 
+- **[2/2026]** Paper "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks" submitted to an IEEE journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2603.00501)
+- **[1/2026]** Paper "Rethinking Mutual Coupling in Movable Antenna MIMO Systems" accepted by IEEE ICC 2026. [\[arXiv\]](https://arxiv.org/abs/2603.12817)
+- **[1/2026]** Paper "Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment" accepted by IEEE WCNC 2026. [\[arXiv\]](https://arxiv.org/abs/2602.22796)
 - **[11/2025]** Paper "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks" accepted by China Communications. [\[arXiv\]](https://arxiv.org/abs/2505.01074) [\[Code\]](https://github.com/jwentong/WirelessAgent_R1) [\[Video demo\]](https://www.youtube.com/watch?v=4fqADkT_XMc)
 - **[09/2025]** Paper "Joint Beamforming and Antenna Position Optimization for Fluid-Antenna Assisted MU-MIMO Networks" accepted by IEEE JSAC. Congrats to Tianyi! [\[Paper\]](https://ieeexplore.ieee.org/document/11184595)[\[Code\]](https://github.com/liaotianyi0114/FAS-MIMO-WSR-Maximization)
-- **[06/2025]** Paper "Point Cloud Environment-Based Channel Knowledge Map Construction" submitted to an IEEE Journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2506.21112)
+- **[06/2025]** Paper "Point Cloud Environment-Based Channel Knowledge Map Construction" submitted to an IEEE journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2506.21112)
 - **[05/2025]** Two papers about fluid antenna systems submitted to IEEE Globecom 2025. [\[arXiv\]](https://arxiv.org/abs/2505.04930) [\[arXiv\]](https://arxiv.org/abs/2505.04936)
 - **[03/2025]** Paper "Joint Beamforming and Antenna Position Optimization for Fluid-Antenna Assisted MU-MIMO Networks" submitted to IEEE JSAC. [\[arXiv\]](https://arxiv.org/abs/2503.04040)
 - **[09/2024]** Poster presentation at [The IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/).
