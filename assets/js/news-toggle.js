@@ -17,8 +17,8 @@
     return null;
   }
 
-  function updateToggleLabel(button, hiddenCount, expanded) {
-    button.textContent = expanded ? "Show less news" : "Show " + hiddenCount + " older news";
+  function updateToggleLabel(button, expanded) {
+    button.textContent = expanded ? "Show less news" : "Show older news";
     button.setAttribute("aria-expanded", expanded ? "true" : "false");
   }
 
@@ -57,7 +57,7 @@
     toggleButton.className = "news-toggle";
     toggleButton.setAttribute("aria-controls", newsList.id);
 
-    updateToggleLabel(toggleButton, hiddenItems.length, expanded);
+    updateToggleLabel(toggleButton, expanded);
 
     toggleButton.addEventListener("click", function() {
       expanded = !expanded;
@@ -66,7 +66,7 @@
         item.hidden = !expanded;
       });
 
-      updateToggleLabel(toggleButton, hiddenItems.length, expanded);
+      updateToggleLabel(toggleButton, expanded);
     });
 
     newsList.insertAdjacentElement("afterend", toggleButton);
