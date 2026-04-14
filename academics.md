@@ -67,4 +67,5 @@ title: Academics
 3. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
 
 ## Awards
+- Best Paper Award at IEEE WCNC 2026.
 - Exemplary Reviewer of IEEE Wireless Communications Letters (2020)

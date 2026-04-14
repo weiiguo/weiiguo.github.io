@@ -7,7 +7,8 @@ layout: homepage
 I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Engineering (HKUST)](https://www.hkust.edu.hk/), hosted by [Prof. Khaled B. Letaief](https://scholar.google.com/citations?user=6WLhtHgAAAAJ) and [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received the Ph.D. degree in computer and information engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/), China, in 2023, under the supervision of [Prof. Chuan Huang](https://myweb.cuhk.edu.cn/huangchuan) and the B.Eng. in electronic engineering from the [University of Electronic Science and Techonology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2017.
 
 ## News
-
+- **[4/2026]** Honored to receive Best Paper Award at IEEE WCNC 2026. [\[Award Link\]](https://wcnc2026.ieee-wcnc.org/best-paper-awards)
+- **[4/2026]** Paper "Towards Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds" accepted by IEEE Communications Magazine. [\[arXiv\]](https://arxiv.org/abs/2510.08140)
 - **[2/2026]** Paper "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks" submitted to an IEEE journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2603.00501)
 - **[1/2026]** Paper "Rethinking Mutual Coupling in Movable Antenna MIMO Systems" accepted by IEEE ICC 2026. [\[arXiv\]](https://arxiv.org/abs/2603.12817)
 - **[1/2026]** Paper "Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment" accepted by IEEE WCNC 2026. [\[arXiv\]](https://arxiv.org/abs/2602.22796)
