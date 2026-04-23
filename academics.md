@@ -6,7 +6,9 @@ title: Academics
 ## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
 
 ### Preprints
-- Tianyi Liao, **Wei Guo**, J. Qian, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Rethinking Mutual Coupling in Movable Antenna MIMO Systems", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.12817)
+- Boqun Huang, Yancheng Wang, **Wei Guo**, Zhaojie Guo, Di Wu, Ran Li, Dayang Liu, Wanshun Lan, Chuan Huang, Shuguang Cui, "Building Low-Altitude Communication Networks: A Digital Twin-Based Optimization Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.17781)
+
+- Tianyi Liao, **Wei Guo**, Jun Qian, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Rethinking Mutual Coupling in Movable Antenna MIMO Systems", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.12817)
 
 - Jingwen Tong, Zijian Li, Fang Liu, **Wei Guo**, and Jun Zhang, "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.00501)
 
