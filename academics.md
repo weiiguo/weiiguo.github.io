@@ -6,17 +6,13 @@ title: Academics
 ## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
 
 ### Preprints
-- Boqun Huang, Yancheng Wang, **Wei Guo**, Zhaojie Guo, Di Wu, Ran Li, Dayang Liu, Wanshun Lan, Chuan Huang, Shuguang Cui, "Building Low-Altitude Communication Networks: A Digital Twin-Based Optimization Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.17781)
+- Tianyi Liao, **Wei Guo**, Jun Qian, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Rethinking Mutual Coupling in Movable Antenna MIMO Systems: Modeling and Optimization", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.26282) (Submitted)
 
-- Tianyi Liao, **Wei Guo**, Jun Qian, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Rethinking Mutual Coupling in Movable Antenna MIMO Systems", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.12817)
+- Boqun Huang, Yancheng Wang, **Wei Guo**, Zhaojie Guo, Di Wu, Ran Li, Dayang Liu, Wanshun Lan, Chuan Huang, Shuguang Cui, "Building Low-Altitude Communication Networks: A Digital Twin-Based Optimization Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.17781) (Submitted)
 
-- Jingwen Tong, Zijian Li, Fang Liu, **Wei Guo**, and Jun Zhang, "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.00501)
+- Jingwen Tong, Zijian Li, Fang Liu, **Wei Guo**, and Jun Zhang, "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.00501) (Submitted)
 
-- Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment", 2026. [\[arXiv\]](https://arxiv.org/abs/2602.22796)
-
-- Yancheng Wang, Chuan Huang, Songyang Zhang, Guanying Chen, **Wei Guo**, Shenglun Lan, Lexi Xu, Xinzhou Cheng, Xiongyan Tang, and Shuguang Cui, "Towards Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds", 2025. [\[arXiv\]](https://arxiv.org/abs/2510.08140)
-
-- Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui, "Point Cloud Environment-Based Channel Knowledge Map Construction", 2025. [\[arXiv\]](https://arxiv.org/abs/2506.21112)
+- Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui, "Point Cloud Environment-Based Channel Knowledge Map Construction", 2025. [\[arXiv\]](https://arxiv.org/abs/2506.21112) (Under Major Revision)
 
 
 ### Journal Papers
@@ -37,6 +33,10 @@ title: Academics
 
 ### Conference Papers
 
+- Tianyi Liao, **Wei Guo**, Jun Qian, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Rethinking Mutual Coupling in Movable Antenna MIMO Systems](https://arxiv.org/abs/2603.12817)", in Proc. IEEE Int. Conf. Commun., May, 2026. 
+
+- Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "[Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment](https://arxiv.org/abs/2602.22796)", in Proc. IEEE Wireless Commun. Netw. Conf., Apr. 2026.
+
 - Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Accurate and Fast Channel Estimation for Fluid Antenna Systems with Diffusion Models](https://arxiv.org/abs/2505.04930)," in Proc. IEEE Glob. Commun. Conf. (Globecom), Dec. 2025. 
 
 - Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Fluid Antenna-Assisted MU-MIMO Systems with Decentralized Baseband Processing](https://arxiv.org/abs/2505.04936)," in Proc. IEEE Glob. Commun. Conf. (Globecom), Dec. 2025.
@@ -48,6 +48,10 @@ title: Academics
 - **Wei Guo**, Chuan Huang, Xiaoqi Qin, Lian Yang, and Wei Zhang, "[Dynamic Clustering and Power Control for Two-Tier Over-the-Air Federated Learning](https://ieeexplore.ieee.org/abstract/document/9880666)," in Proc. IEEE/CIC Int. Conf. Commun. China (ICCC), Aug. 2022.
 
 - **Wei Guo** and Chuan Huang, "[Energy Efficiency of Full-Duplex Two-Way Channels](https://ieeexplore.ieee.org/abstract/document/8969307)," in Proc. Glob. Conf. Signal Inf. Process. (GlobalSIP), Nov. 2019.
+
+### Magazine Papers
+
+- Yancheng Wang, Chuan Huang, Songyang Zhang, Guanying Chen, **Wei Guo**, Shenglun Lan, Lexi Xu, Xinzhou Cheng, Xiongyan Tang, and Shuguang Cui, "[Towards Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds](https://arxiv.org/abs/2510.08140)", IEEE Commun. Mag., to appear, 2026.
 
 ## Academic Services
 
