@@ -22,9 +22,12 @@
     button.setAttribute("aria-expanded", expanded ? "true" : "false");
   }
 
-  document.addEventListener("DOMContentLoaded", function() {
-    var newsHeading = document.getElementById("news");
-    var newsList = getNewsList(newsHeading);
+  function initNewsToggle() {
+    var newsList = document.getElementById("news-list");
+
+    if (!newsList) {
+      newsList = getNewsList(document.getElementById("news"));
+    }
 
     if (!newsList) {
       return;
@@ -34,9 +37,8 @@
       return item.tagName === "LI";
     });
     var visibleCount = 5;
-    var hiddenItems = items.slice(visibleCount);
 
-    if (hiddenItems.length === 0) {
+    if (items.length <= visibleCount) {
       return;
     }
 
@@ -44,11 +46,8 @@
       newsList.id = "news-list";
     }
 
+    newsList.classList.add("news-list");
     newsList.classList.add("news-list--enhanced");
-
-    hiddenItems.forEach(function(item) {
-      item.hidden = true;
-    });
 
     var toggleButton = document.createElement("button");
     var expanded = false;
@@ -62,13 +61,16 @@
     toggleButton.addEventListener("click", function() {
       expanded = !expanded;
 
-      hiddenItems.forEach(function(item) {
-        item.hidden = !expanded;
-      });
-
+      newsList.classList.toggle("is-expanded", expanded);
       updateToggleLabel(toggleButton, expanded);
     });
 
     newsList.insertAdjacentElement("afterend", toggleButton);
-  });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initNewsToggle);
+  } else {
+    initNewsToggle();
+  }
 })(document);

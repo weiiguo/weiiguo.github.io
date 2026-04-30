@@ -204,6 +204,16 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+.news-list:not(.is-expanded) > li:nth-child(n+6),
+#news + ul:not(.is-expanded) > li:nth-child(n+6) {
+  display:none;
+}
+
+.news-list.is-expanded > li,
+#news + ul.is-expanded > li {
+  display:list-item;
+}
+
 .news-list--enhanced {
   margin-bottom:10px;
 }
