@@ -19,9 +19,9 @@ title: Academics
 
 - Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Joint Beamforming and Antenna Position Optimization for Fluid Antenna Assisted MU-MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11184595)," IEEE J. Sel. Areas Commun. (JSAC), vol. 44, pp. 1209-1226, 2026.
 
-- Jingwen Tong, **Wei Guo**, Jiawei Shao, Qiong Wu, Zijian Li, Zehong Lin, and Jun Zhang, "[WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks](https://arxiv.org/abs/2505.01074)," China Commun., 2025.
+- Jingwen Tong, **Wei Guo**, Jiawei Shao, Qiong Wu, Zijian Li, Zehong Lin, and Jun Zhang, "[WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks](https://ieeexplore.ieee.org/abstract/document/11503159)," China Commun., vol. 23, no. 3 pp. 265-285, Mar. 2026.
 
-- Jiawei Shao, Jingwen Tong, Qiong Wu, **Wei Guo**, Zijian Li, Zehong Lin, and Jun Zhang, "[WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence](https://ieeexplore.ieee.org/document/10582827)," J. Commun. Inf. Netw. (JCIN), vol. 9, pp. 99-112, Jun. 2024.
+- Jiawei Shao, Jingwen Tong, Qiong Wu, **Wei Guo**, Zijian Li, Zehong Lin, and Jun Zhang, "[WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence](https://ieeexplore.ieee.org/document/10582827)," J. Commun. Inf. Netw. (JCIN), vol. 9, no. 2, pp. 99-112, Jun. 2024.
 
 - **Wei Guo**, Chuan Huang, Xiaoqi Qin, Lian Yang, and Wei Zhang, "[Dynamic Clustering and Power Control for Two-Tier Wireless Federated Learning](https://ieeexplore.ieee.org/abstract/document/10168186)," IEEE Trans. Wireless Commun. (TWC), vol. 23, no. 2, pp. 1356-1371, Feb. 2024.
 
