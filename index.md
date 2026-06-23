@@ -7,6 +7,7 @@ layout: homepage
 I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engineering](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Engineering (HKUST)](https://www.hkust.edu.hk/), hosted by [Prof. Khaled B. Letaief](https://scholar.google.com/citations?user=6WLhtHgAAAAJ) and [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received the Ph.D. degree in computer and information engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/), China, in 2023, under the supervision of [Prof. Chuan Huang](https://myweb.cuhk.edu.cn/huangchuan) and the B.Eng. in electronic engineering from the [University of Electronic Science and Techonology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2017.
 
 ## News
+- **[6/2026]** Paper "Point Cloud Environment-Based Channel Knowledge Map Construction" accepted by IEEE TCCN. Congrats to Yancheng! [\[Paper\]](https://arxiv.org/abs/2506.21112)
 - **[4/2026]** Honored to receive Best Paper Award at IEEE WCNC 2026. [\[Award Link\]](https://wcnc2026.ieee-wcnc.org/best-paper-awards)
 - **[4/2026]** Paper "Towards Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds" accepted by IEEE Communications Magazine. [\[arXiv\]](https://arxiv.org/abs/2510.08140)
 - **[2/2026]** Paper "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks" submitted to an IEEE journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2603.00501)
@@ -14,7 +15,6 @@ I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engin
 - **[1/2026]** Paper "Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment" accepted by IEEE WCNC 2026. [\[arXiv\]](https://arxiv.org/abs/2602.22796)
 - **[11/2025]** Paper "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks" accepted by China Communications. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/11503159) [\[Code\]](https://github.com/jwentong/WirelessAgent_R1) [\[Video demo\]](https://www.youtube.com/watch?v=4fqADkT_XMc)
 - **[09/2025]** Paper "Joint Beamforming and Antenna Position Optimization for Fluid-Antenna Assisted MU-MIMO Networks" accepted by IEEE JSAC. Congrats to Tianyi! [\[Paper\]](https://ieeexplore.ieee.org/document/11184595)[\[Code\]](https://github.com/liaotianyi0114/FAS-MIMO-WSR-Maximization)
-- **[06/2025]** Paper "Point Cloud Environment-Based Channel Knowledge Map Construction" submitted to an IEEE journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2506.21112)
 - **[05/2025]** Two papers about fluid antenna systems submitted to IEEE Globecom 2025. [\[arXiv\]](https://arxiv.org/abs/2505.04930) [\[arXiv\]](https://arxiv.org/abs/2505.04936)
 - **[03/2025]** Paper "Joint Beamforming and Antenna Position Optimization for Fluid-Antenna Assisted MU-MIMO Networks" submitted to IEEE JSAC. [\[arXiv\]](https://arxiv.org/abs/2503.04040)
 - **[09/2024]** Poster presentation at [The IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/).

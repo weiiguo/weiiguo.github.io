@@ -14,10 +14,10 @@ title: Academics
 
 - Jingwen Tong, Zijian Li, Fang Liu, **Wei Guo**, and Jun Zhang, "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.00501) (Submitted)
 
-- Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui, "Point Cloud Environment-Based Channel Knowledge Map Construction", 2025. [\[arXiv\]](https://arxiv.org/abs/2506.21112) (Under Major Revision)
-
 
 ### Journal Papers
+
+- Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui, "[Point Cloud Environment-Based Channel Knowledge Map Construction](https://arxiv.org/abs/2506.21112)", IEEE Trans. Cogn. Commun. Netw. (TCCN), to appear, 2026.
 
 - Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Joint Beamforming and Antenna Position Optimization for Fluid Antenna Assisted MU-MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11184595)," IEEE J. Sel. Areas Commun. (JSAC), vol. 44, pp. 1209-1226, 2026.
 
