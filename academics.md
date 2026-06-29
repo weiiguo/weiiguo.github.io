@@ -6,13 +6,15 @@ title: Academics
 ## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
 
 ### Preprints
+- Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "Multi-Modal Environment-Aware Beam Management for Massive MIMO: A Geometry-Driven Virtual Base Station Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2606.26567) (Submitted)
+
 - Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief, "A Unified Two-Stage Generative Diffusion Framework for Channel Estimation and Port Selection in Multiuser MIMO-FAS", 2026. [\[arXiv\]](https://arxiv.org/abs/2605.29679) (Submitted)
 
 - Tianyi Liao, **Wei Guo**, Jun Qian, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Rethinking Mutual Coupling in Movable Antenna MIMO Systems: Modeling and Optimization", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.26282) (Submitted)
 
-- Boqun Huang, Yancheng Wang, **Wei Guo**, Zhaojie Guo, Di Wu, Ran Li, Dayang Liu, Wanshun Lan, Chuan Huang, Shuguang Cui, "Building Low-Altitude Communication Networks: A Digital Twin-Based Optimization Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.17781) (Submitted)
+- Boqun Huang, Yancheng Wang, **Wei Guo**, Zhaojie Guo, Di Wu, Ran Li, Dayang Liu, Wanshun Lan, Chuan Huang, Shuguang Cui, "Building Low-Altitude Communication Networks: A Digital Twin-Based Optimization Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.17781) (Major revision)
 
-- Jingwen Tong, Zijian Li, Fang Liu, **Wei Guo**, and Jun Zhang, "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.00501) (Submitted)
+- Jingwen Tong, Zijian Li, Fang Liu, **Wei Guo**, and Jun Zhang, "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.00501) (Major revision)
 
 
 ### Journal Papers
