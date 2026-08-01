@@ -6,9 +6,11 @@ title: Academics
 ## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
 
 ### Preprints
+- Songjie Xie, **Wei Guo**, Shenghui Song, Jun Zhang, Ying-Jun Angela Zhang, Khaled B. Letaief, "Task-Oriented Communication with Hybrid-Precision Models", 2026. [\[arXiv\]](https://arxiv.org/abs/2607.16766) (Submitted)
+
 - Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "Multi-Modal Environment-Aware Beam Management for Massive MIMO: A Geometry-Driven Virtual Base Station Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2606.26567) (Submitted)
 
-- Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief, "A Unified Two-Stage Generative Diffusion Framework for Channel Estimation and Port Selection in Multiuser MIMO-FAS", 2026. [\[arXiv\]](https://arxiv.org/abs/2605.29679) (Submitted)
+- Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief, "A Unified Two-Stage Generative Diffusion Framework for Channel Estimation and Port Selection in Multiuser MIMO-FAS", 2026. [\[arXiv\]](https://arxiv.org/abs/2605.29679) (Major revision)
 
 - Tianyi Liao, **Wei Guo**, Jun Qian, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Rethinking Mutual Coupling in Movable Antenna MIMO Systems: Modeling and Optimization", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.26282) (Submitted)
 
