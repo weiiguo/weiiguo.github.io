@@ -38,10 +38,13 @@ title: Academics
 
 
 ### Conference Papers
+- Yijie Bian, **Wei Guo**, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[GSBF: Gaussian Splatting for Environment-Aware Beamforming](https://arxiv.org/abs/2608.05896)", in Proc. IEEE IEEE Glob. Commun. Conf. (Globecom), Dec. 2026. 
 
-- Tianyi Liao, **Wei Guo**, Jun Qian, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Rethinking Mutual Coupling in Movable Antenna MIMO Systems](https://arxiv.org/abs/2603.12817)", in Proc. IEEE Int. Conf. Commun., May, 2026. 
+- Tianyi Liao, **Wei Guo**, Jun Qian, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Rethinking Mutual Coupling in Movable Antenna MIMO Systems](https://ieeexplore.ieee.org/abstract/document/11587618)", in Proc. IEEE Int. Conf. Commun., May, 2026. 
 
-- Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "[Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment](https://arxiv.org/abs/2602.22796)", in Proc. IEEE Wireless Commun. Netw. Conf., Apr. 2026.
+- Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "[Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment](https://ieeexplore.ieee.org/abstract/document/11555232)", in Proc. IEEE Wireless Commun. Netw. Conf., Apr. 2026.
+
+- Ran Li, Ziyi Xu, **Wei Guo**, Ying-Jun Angela Zhang, "[Divergence Meets Dispersion: Efficient Wideband Beam Training for XL-MIMO](https://ieeexplore.ieee.org/abstract/document/11555141)", in Proc. IEEE Wireless Commun. Netw. Conf., Apr. 2026. **Best Paper Award**
 
 - Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Accurate and Fast Channel Estimation for Fluid Antenna Systems with Diffusion Models](https://arxiv.org/abs/2505.04930)," in Proc. IEEE Glob. Commun. Conf. (Globecom), Dec. 2025. 
 
