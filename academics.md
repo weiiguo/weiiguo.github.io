@@ -8,13 +8,11 @@ title: Academics
 ### Preprints
 - Songjie Xie, **Wei Guo**, Shenghui Song, Jun Zhang, Ying-Jun Angela Zhang, Khaled B. Letaief, "Task-Oriented Communication with Hybrid-Precision Models", 2026. [\[arXiv\]](https://arxiv.org/abs/2607.16766) (Submitted)
 
-- Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "Multi-Modal Environment-Aware Beam Management for Massive MIMO: A Geometry-Driven Virtual Base Station Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2606.26567) (Submitted)
+- Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "Multi-Modal Environment-Aware Beam Management for Massive MIMO: A Geometry-Driven Virtual Base Station Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2606.26567) (Major revision)
 
 - Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief, "A Unified Two-Stage Generative Diffusion Framework for Channel Estimation and Port Selection in Multiuser MIMO-FAS", 2026. [\[arXiv\]](https://arxiv.org/abs/2605.29679) (Major revision)
 
 - Tianyi Liao, **Wei Guo**, Jun Qian, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Rethinking Mutual Coupling in Movable Antenna MIMO Systems: Modeling and Optimization", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.26282) (Submitted)
-
-- Boqun Huang, Yancheng Wang, **Wei Guo**, Zhaojie Guo, Di Wu, Ran Li, Dayang Liu, Wanshun Lan, Chuan Huang, Shuguang Cui, "Building Low-Altitude Communication Networks: A Digital Twin-Based Optimization Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.17781) (Major revision)
 
 - Jingwen Tong, Zijian Li, Fang Liu, **Wei Guo**, and Jun Zhang, "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.00501) (Major revision)
 
@@ -60,7 +58,9 @@ title: Academics
 
 ### Magazine Papers
 
-- Yancheng Wang, Chuan Huang, Songyang Zhang, Guanying Chen, **Wei Guo**, Shenglun Lan, Lexi Xu, Xinzhou Cheng, Xiongyan Tang, and Shuguang Cui, "[Towards Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds](https://arxiv.org/abs/2510.08140)", IEEE Commun. Mag., to appear, 2026.
+- Boqun Huang, Yancheng Wang, **Wei Guo**, Zhaojie Guo, Di Wu, Ran Li, Dayang Liu, Wanshun Lan, Chuan Huang, Shuguang Cui, "[Building Low-Altitude Communication Networks: A Digital Twin-Based Optimization Framework](https://ieeexplore.ieee.org/document/11719435)", IEEE Wireless Commun. Mag., early access, 2026. 
+
+- Yancheng Wang, Chuan Huang, Songyang Zhang, Guanying Chen, **Wei Guo**, Shenglun Lan, Lexi Xu, Xinzhou Cheng, Xiongyan Tang, and Shuguang Cui, "[Towards Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds](https://ieeexplore.ieee.org/abstract/document/11573387)", IEEE Commun. Mag., early access, 2026.
 
 ## Academic Services
 
