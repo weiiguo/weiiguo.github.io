@@ -8,6 +8,8 @@ title: Academics
 ### Preprints
 - **Wei Guo**, Yaowen Zhang, Xingtong Ge, and Jun Zhang, "Equal Path Cost, Unequal Output Effects: Understanding Perturbation Propagation in Diffusion Models", 2026. [\[arXiv\]](https://arxiv.org/abs/2610.11380)
 
+- Yijie Bian, Kai Zhang, **Wei Guo**, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC", 2026. [\[arXiv\]](https://arxiv.org/abs/2609.39964)
+
 - Songjie Xie, **Wei Guo**, Shenghui Song, Jun Zhang, Ying-Jun Angela Zhang, Khaled B. Letaief, "Task-Oriented Communication with Hybrid-Precision Models", 2026. [\[arXiv\]](https://arxiv.org/abs/2607.16766) (Submitted)
 
 - Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "Multi-Modal Environment-Aware Beam Management for Massive MIMO: A Geometry-Driven Virtual Base Station Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2606.26567) (Major revision)
@@ -21,11 +23,11 @@ title: Academics
 
 ### Journal Papers
 
-- Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui, "[Point Cloud Environment-Based Channel Knowledge Map Construction](https://ieeexplore.ieee.org/document/11575607)", IEEE Trans. Cogn. Commun. Netw. (TCCN), early access, 2026.
+- Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui, "[Point Cloud Environment-Based Channel Knowledge Map Construction](https://ieeexplore.ieee.org/document/11575607)", IEEE Trans. Cogn. Commun. Netw. (TCCN), vol. 12, pp. 9263-9278, 2026.
 
 - Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Joint Beamforming and Antenna Position Optimization for Fluid Antenna Assisted MU-MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11184595)," IEEE J. Sel. Areas Commun. (JSAC), vol. 44, pp. 1209-1226, 2026.
 
-- Jingwen Tong, **Wei Guo**, Jiawei Shao, Qiong Wu, Zijian Li, Zehong Lin, and Jun Zhang, "[WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks](https://ieeexplore.ieee.org/abstract/document/11503159)," China Commun., vol. 23, no. 3 pp. 265-285, Mar. 2026.
+- Jingwen Tong, **Wei Guo**, Jiawei Shao, Qiong Wu, Zijian Li, Zehong Lin, and Jun Zhang, "[WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks](https://ieeexplore.ieee.org/abstract/document/11503159)," China Commun., vol. 23, no. 3, pp. 265-285, Mar. 2026.
 
 - Jiawei Shao, Jingwen Tong, Qiong Wu, **Wei Guo**, Zijian Li, Zehong Lin, and Jun Zhang, "[WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence](https://ieeexplore.ieee.org/document/10582827)," J. Commun. Inf. Netw. (JCIN), vol. 9, no. 2, pp. 99-112, Jun. 2024.
 
@@ -38,17 +40,19 @@ title: Academics
 
 
 ### Conference Papers
-- Yijie Bian, **Wei Guo**, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[GSBF: Gaussian Splatting for Environment-Aware Beamforming](https://arxiv.org/abs/2608.05896)", in Proc. IEEE IEEE Glob. Commun. Conf. (Globecom), Dec. 2026. 
+- Yijie Bian, **Wei Guo**, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[GSBF: Gaussian Splatting for Environment-Aware Beamforming](https://arxiv.org/abs/2608.05896)", in Proc. IEEE Glob. Commun. Conf. (Globecom), Dec. 2026.
 
-- Tianyi Liao, **Wei Guo**, Jun Qian, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Rethinking Mutual Coupling in Movable Antenna MIMO Systems](https://ieeexplore.ieee.org/abstract/document/11587618)", in Proc. IEEE Int. Conf. Commun., May, 2026. 
+- Songjie Xie, **Wei Guo**, Shenghui Song, Jun Zhang, Ying-Jun Angela Zhang, and Khaled B. Letaief, "[Hybrid Precision Task-Oriented Communication for OFDM-Based Edge Inference Systems](https://ieeexplore.ieee.org/document/11641098)", in Proc. IEEE Mediterranean Conf. Commun. Netw. (MeditCom), Jul. 2026.
+
+- Tianyi Liao, **Wei Guo**, Jun Qian, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Rethinking Mutual Coupling in Movable Antenna MIMO Systems](https://ieeexplore.ieee.org/abstract/document/11587618)", in Proc. IEEE Int. Conf. Commun., May 2026.
 
 - Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "[Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment](https://ieeexplore.ieee.org/abstract/document/11555232)", in Proc. IEEE Wireless Commun. Netw. Conf., Apr. 2026.
 
 - Ran Li, Ziyi Xu, **Wei Guo**, Ying-Jun Angela Zhang, "[Divergence Meets Dispersion: Efficient Wideband Beam Training for XL-MIMO](https://ieeexplore.ieee.org/abstract/document/11555141)", in Proc. IEEE Wireless Commun. Netw. Conf., Apr. 2026. **Best Paper Award**
 
-- Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Accurate and Fast Channel Estimation for Fluid Antenna Systems with Diffusion Models](https://arxiv.org/abs/2505.04930)," in Proc. IEEE Glob. Commun. Conf. (Globecom), Dec. 2025. 
+- Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Accurate and Fast Channel Estimation for Fluid Antenna Systems with Diffusion Models](https://ieeexplore.ieee.org/document/11432492)," in Proc. IEEE Glob. Commun. Conf. (Globecom), pp. 2066-2071, Dec. 2025.
 
-- Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Fluid Antenna-Assisted MU-MIMO Systems with Decentralized Baseband Processing](https://arxiv.org/abs/2505.04936)," in Proc. IEEE Glob. Commun. Conf. (Globecom), Dec. 2025.
+- Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Fluid Antenna-Assisted MU-MIMO Systems with Decentralized Baseband Processing](https://ieeexplore.ieee.org/document/11432063)," in Proc. IEEE Glob. Commun. Conf. (Globecom), pp. 2372-2377, Dec. 2025.
 
 - **W. Guo**, M. He, C. Huang, H. He, S. Song, J. Zhang, K.B. Letaief, "[Model-driven Deep Learning for Distributed Detection in WSNs with Binary Quantization](https://ieeexplore.ieee.org/abstract/document/10621336)," in Proc. IEEE Mediterranean Conf. Commun. Netw. (MeditCom), Jul. 2024.
 
@@ -79,8 +83,8 @@ title: Academics
 10. And more...
 
 - Conference Reviewers
-1. IEEE Global Communications Conference (Globecom), 2019-2024; 
-2. IEEE/CIC International Conference on Communications in China (ICCC), 2019-2024.
+1. IEEE Global Communications Conference (Globecom), 2019-2025;
+2. IEEE/CIC International Conference on Communications in China (ICCC), 2019-2025.
 3. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
 
 ## Awards
