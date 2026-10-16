@@ -11,8 +11,8 @@ I am a Postdoctoral Fellow with the [Department of Electronic and Computer Engin
 - **[10/2026]** Honored to receive Best Paper Award from Journal of Communications and Information Networks.
 - **[9/2026]** Paper "Building Low-Altitude Communication Networks: A Digital Twin-Based Optimization Framework" accepted by IEEE WCM. Congrats to Boqun! [\[Paper\]](https://ieeexplore.ieee.org/document/11719435)
 - **[8/2026]** Paper "GSBF: Gaussian Splatting for Environment-Aware Beamforming" accepted by IEEE Globecom 2026. Congrats to Yijie! [\[arXiv\]](https://arxiv.org/abs/2608.05896)
-- **[7/2026]** Paper "Hybrid Precision Task-Oriented Communication for OFDM-Based Edge Inference Systems" published in the proceedings of IEEE MeditCom 2026. [\[Paper\]](https://ieeexplore.ieee.org/document/11641098)
 - **[6/2026]** Paper "Point Cloud Environment-Based Channel Knowledge Map Construction" accepted by IEEE TCCN. Congrats to Yancheng! [\[Paper\]](https://ieeexplore.ieee.org/document/11575607)
+- **[4/2026]** Paper "Hybrid Precision Task-Oriented Communication for OFDM-Based Edge Inference Systems" acceted by IEEE MeditCom 2026. [\[Paper\]](https://ieeexplore.ieee.org/document/11641098)
 - **[4/2026]** Honored to receive Best Paper Award at IEEE WCNC 2026. [\[Award Link\]](https://wcnc2026.ieee-wcnc.org/best-paper-awards)
 - **[4/2026]** Paper "Towards Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds" accepted by IEEE Communications Magazine. [\[arXiv\]](https://arxiv.org/abs/2510.08140)
 - **[2/2026]** Paper "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks" submitted to an IEEE journal for possible publication. [\[arXiv\]](https://arxiv.org/abs/2603.00501)
