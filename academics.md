@@ -8,9 +8,9 @@ title: Academics
 ### Preprints
 - **Wei Guo**, Yaowen Zhang, Xingtong Ge, and Jun Zhang, "Equal Path Cost, Unequal Output Effects: Understanding Perturbation Propagation in Diffusion Models", 2026. [\[arXiv\]](https://arxiv.org/abs/2610.11380)
 
-- Yijie Bian, Kai Zhang, **Wei Guo**, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC", 2026. [\[arXiv\]](https://arxiv.org/abs/2609.39964)
+- Yijie Bian, Kai Zhang, **Wei Guo**, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC", 2026. [\[arXiv\]](https://arxiv.org/abs/2609.39964) (Submitted)
 
-- Songjie Xie, **Wei Guo**, Shenghui Song, Jun Zhang, Ying-Jun Angela Zhang, Khaled B. Letaief, "Task-Oriented Communication with Hybrid-Precision Models", 2026. [\[arXiv\]](https://arxiv.org/abs/2607.16766) (Submitted)
+- Songjie Xie, **Wei Guo**, Shenghui Song, Jun Zhang, Ying-Jun Angela Zhang, Khaled B. Letaief, "Task-Oriented Communication with Hybrid-Precision Models", 2026. [\[arXiv\]](https://arxiv.org/abs/2607.16766) (Major revision)
 
 - Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "Multi-Modal Environment-Aware Beam Management for Massive MIMO: A Geometry-Driven Virtual Base Station Framework", 2026. [\[arXiv\]](https://arxiv.org/abs/2606.26567) (Major revision)
 
@@ -18,12 +18,14 @@ title: Academics
 
 - Tianyi Liao, **Wei Guo**, Jun Qian, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "Rethinking Mutual Coupling in Movable Antenna MIMO Systems: Modeling and Optimization", 2026. [\[arXiv\]](https://arxiv.org/abs/2604.26282) (Submitted)
 
-- Jingwen Tong, Zijian Li, Fang Liu, **Wei Guo**, and Jun Zhang, "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.00501) (Major revision)
+- Jingwen Tong, Zijian Li, Fang Liu, **Wei Guo**, and Jun Zhang, "WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks", 2026. [\[arXiv\]](https://arxiv.org/abs/2603.00501) (Minor revision)
 
 
 ### Journal Papers
+- **Wei Guo**, Meng He, Chuan Huang, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Model-Driven Deep Learning for Distributed Detection with Low-Bit Quantization
+](https://arxiv.org/abs/2610.21759)", IEEE J. Sel. Areas Commun. (JSAC), to appear, 2026.
 
-- Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui, "[Point Cloud Environment-Based Channel Knowledge Map Construction](https://ieeexplore.ieee.org/document/11575607)", IEEE Trans. Cogn. Commun. Netw. (TCCN), vol. 12, pp. 9263-9278, 2026.
+- Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, and Shuguang Cui, "[Point Cloud Environment-Based Channel Knowledge Map Construction](https://ieeexplore.ieee.org/document/11575607)", IEEE Trans. Cogn. Commun. Netw. (TCCN), vol. 12, pp. 9263-9278, 2026.
 
 - Tianyi Liao, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Joint Beamforming and Antenna Position Optimization for Fluid Antenna Assisted MU-MIMO Networks](https://ieeexplore.ieee.org/abstract/document/11184595)," IEEE J. Sel. Areas Commun. (JSAC), vol. 44, pp. 1209-1226, 2026.
 
@@ -83,10 +85,11 @@ title: Academics
 10. And more...
 
 - Conference Reviewers
-1. IEEE Global Communications Conference (Globecom), 2019-2025;
+1. IEEE Global Communications Conference (Globecom), 2019-2025.
 2. IEEE/CIC International Conference on Communications in China (ICCC), 2019-2025.
 3. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
 
 ## Awards
+- Best Paper Award from Journal of Communications and Information Networks (2026).
 - Best Paper Award at IEEE WCNC 2026.
-- Exemplary Reviewer of IEEE Wireless Communications Letters (2020)
+- Exemplary Reviewer of IEEE Wireless Communications Letters (2020).
