@@ -34,7 +34,10 @@
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <span class="publication-honor">{{ link.notes }}</span>
+      {% endif %}
+      {% if link.award %}
+      <span class="publication-honor publication-honor-award">{{ link.award }}</span>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
