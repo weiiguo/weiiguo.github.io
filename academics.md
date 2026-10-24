@@ -23,7 +23,7 @@ title: Academics
 
 ### Journal Papers
 - **Wei Guo**, Meng He, Chuan Huang, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Model-Driven Deep Learning for Distributed Detection with Low-Bit Quantization
-](https://arxiv.org/abs/2610.21759)", IEEE J. Sel. Areas Commun. (JSAC), to appear, 2026.
+](https://ieeexplore.ieee.org/document/11751680)", IEEE J. Sel. Areas Commun. (JSAC), early access, 2026.
 
 - Yancheng Wang, **Wei Guo**, Chuan Huang, Guanying Chen, Ye Zhang, and Shuguang Cui, "[Point Cloud Environment-Based Channel Knowledge Map Construction](https://ieeexplore.ieee.org/document/11575607)", IEEE Trans. Cogn. Commun. Netw. (TCCN), vol. 12, pp. 9263-9278, 2026.
 
