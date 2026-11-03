@@ -16,3 +16,7 @@ vendor/
 .jekyll-cache/
 .jekyll-metadata
 tmp/
+
+# Local project instructions and build notes
+/AGENTS.md
+/build_guidance.md
