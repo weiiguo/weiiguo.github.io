@@ -1,0 +1,16 @@
+require "webrick"
+$stdout.sync = true
+port = Integer(ARGV.fetch(0, "4000"))
+server = WEBrick::HTTPServer.new(
+  BindAddress: "127.0.0.1",
+  Port: port,
+  DocumentRoot: File.expand_path("../_site", __dir__),
+  DirectoryIndex: ["index.html"],
+  FancyIndexing: false,
+  # Always re-read local preview assets after a rebuild.
+  RequestCallback: ->(_request, response) { response["Cache-Control"] = "no-store" }
+)
+trap("INT") { server.shutdown }
+trap("TERM") { server.shutdown }
+puts "Production preview: http://127.0.0.1:#{port} (Ctrl+C to stop)"
+server.start

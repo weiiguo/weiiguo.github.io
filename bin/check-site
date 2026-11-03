@@ -1,0 +1,42 @@
+require "nokogiri"
+require "uri"
+require "pathname"
+
+root = Pathname.new(File.expand_path("../_site", __dir__))
+errors = []
+pages = %w[index.html academics.html miscellaneous.html]
+pages.each do |page|
+  path = root.join(page)
+  unless path.file?
+    errors << "Missing page: #{page}"
+    next
+  end
+  document = Nokogiri::HTML(path.read)
+  document.css("a[href], img[src], script[src], link[rel=stylesheet][href]").each do |element|
+    value = element["src"] || element["href"]
+    next if value.nil? || value.empty? || value.match?(%r{\A(?:[a-z][a-z0-9+.-]*:|//)}i)
+    uri = URI.parse(value)
+    relative = URI::DEFAULT_PARSER.unescape(uri.path)
+    target = if relative.empty?
+      path
+    elsif relative.start_with?("/")
+      root.join(relative.delete_prefix("/"))
+    else
+      path.dirname.join(relative)
+    end
+    target = target.join("index.html") if target.directory?
+    errors << "#{page}: missing local target #{value}" unless target.file?
+    if target == path && uri.fragment && !document.at_css("[id='#{uri.fragment}']")
+      errors << "#{page}: missing anchor #{value}"
+    end
+  rescue URI::InvalidURIError
+    errors << "#{page}: invalid URL #{value}"
+  end
+end
+
+%w[Gemfile Gemfile.lock bin vendor tmp README.md].each do |private_path|
+  errors << "Build exposes #{private_path}" if root.join(private_path).exist?
+end
+
+abort errors.join("\n") unless errors.empty?
+puts "Passed: #{pages.length} pages, local links/assets, and build exclusions."

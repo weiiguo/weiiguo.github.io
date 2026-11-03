@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+source "$(dirname "$0")/environment"
+if [[ "${1:-}" == "--production" ]]; then
+  shift
+  ./bin/build
+  # Serve the exact build output, without regenerating URLs or injecting LiveReload.
+  exec bundle exec ruby bin/serve "$@"
+fi
+exec bundle exec jekyll serve --host 127.0.0.1 --port 4000 --livereload "$@"

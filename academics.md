@@ -3,7 +3,7 @@ layout: homepage
 title: Academics
 ---
 
-## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ" style="font-size: 0.6em;">[Google Scholar]</a>
+## Publications <a href="https://scholar.google.com/citations?user=4dFwT-4AAAAJ">[Google Scholar]</a>
 
 ### Preprints
 - **Wei Guo**, Yaowen Zhang, Xingtong Ge, and Jun Zhang, "Equal Path Cost, Unequal Output Effects: Understanding Perturbation Propagation in Diffusion Models", 2026. [\[arXiv\]](https://arxiv.org/abs/2610.11380)

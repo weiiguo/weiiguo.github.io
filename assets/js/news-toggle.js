@@ -38,6 +38,21 @@
     });
     var visibleCount = 5;
 
+    // Keep dates aligned without changing the Markdown content or its links.
+    items.forEach(function(item) {
+      var date = item.querySelector('strong');
+      if (!date || !/^\[\d{1,2}\/\d{4}\]$/.test(date.textContent.trim())) return;
+      var body = document.createElement('div');
+      body.className = 'news-body';
+      date.className = 'news-date';
+      date.textContent = date.textContent.replace(/[\[\]]/g, '');
+      item.removeChild(date);
+      while (item.firstChild) body.appendChild(item.firstChild);
+      item.appendChild(date);
+      item.appendChild(body);
+      item.classList.add('news-item');
+    });
+
     if (items.length <= visibleCount) {
       return;
     }
