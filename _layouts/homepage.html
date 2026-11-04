@@ -44,7 +44,7 @@
           {% if site.twitter %}<a href="{{ site.twitter }}">X <span aria-hidden="true">↗</span></a>{% endif %}
         </div>
       </aside>
-      <main id="main-content" class="main-content{% if page.url == '/academics.html' %} academic-content{% endif %}" tabindex="-1">
+      <main id="main-content" class="main-content{% if page.url == '/academics.html' %} academic-content{% elsif page.url == '/' %} home-content{% endif %}" tabindex="-1">
         {{ content }}
         {% if site.enable_footnote %}
         <footer class="site-footer">Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light">Minimal Light</a>.</footer>
