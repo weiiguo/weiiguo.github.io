@@ -12,6 +12,8 @@ title: Academics
 </div>
 
 ### Preprints
+- **Wei Guo**, Tianyi Liao, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Mutual-Coupling-Aware Joint Precoding and Antenna Positioning for Movable-Antenna MU-MIMO Systems](https://arxiv.org/abs/2611.04552)", 2026.
+
 - **Wei Guo**, Yaowen Zhang, Xingtong Ge, and Jun Zhang, "[Equal Path Cost, Unequal Output Effects: Understanding Perturbation Propagation in Diffusion Models](https://arxiv.org/abs/2610.11380)", 2026.
 
 - Yijie Bian, Kai Zhang, **Wei Guo**, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC](https://arxiv.org/abs/2609.39964)", 2026.
