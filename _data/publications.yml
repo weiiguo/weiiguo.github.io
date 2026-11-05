@@ -1,5 +1,35 @@
 main:
 
+  - title: "GSBF: Gaussian Splatting for Environment-Aware Beamforming"
+    authors: Yijie Bian, <strong>Wei Guo</strong>, Zixin Wang, Shenghui Song, Jun Zhang, Khaled B. Letaief
+    conference_short: Globecom
+    conference: in Proc. IEEE Glob. Commun. Conf. (Globecom), Dec. 2026.
+    pdf: https://arxiv.org/abs/2608.05896
+    image: ./assets/img/Globecom2026_GSBF.png
+
+  - title: "Point Cloud Environment-Based Channel Knowledge Map Construction"
+    authors: Yancheng Wang, <strong>Wei Guo</strong>, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui
+    conference_short: TCCN
+    conference: IEEE Trans. Cogn. Commun. Netw. (TCCN), vol. 12, pp. 9263-9278, 2026.
+    pdf: https://ieeexplore.ieee.org/document/11575607
+    image: ./assets/img/TCCN_CKM.png
+
+  - title: "Divergence Meets Dispersion: Efficient Wideband Beam Training for XL-MIMO"
+    authors: Ran Li, Ziyi Xu, <strong>Wei Guo</strong>, Ying-Jun Angela Zhang
+    conference_short: WCNC
+    conference: in Proc. IEEE Wireless Commun. Netw. Conf. (WCNC), Apr. 2026.
+    pdf: https://ieeexplore.ieee.org/abstract/document/11555141
+    image: ./assets/img/WCNC2026_NFBeam.png
+    award: Best Paper Award
+
+  - title: "WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks"
+    authors: Jingwen Tong, <strong>Wei Guo</strong>, Jiawei Shao, Qiong Wu, Zijian Li, Zehong Lin, Jun Zhang
+    conference_short: China Commun.
+    conference: China Commun., vol. 23, no. 3, pp. 265-285, Mar. 2026.
+    pdf: https://ieeexplore.ieee.org/abstract/document/11503159
+    code: https://github.com/jwentong/WirelessAgent_R1
+    image: ./assets/img/ChinaCom_WirelessAgent.png
+
   - title: "Joint Beamforming and Antenna Position Optimization for Fluid Antenna-Assisted MU-MIMO Networks"
     authors: Tianyi Liao, <strong>Wei Guo</strong>, Hengtao He, Shenghui Song, Jun Zhang, Khaled B. Letaief
     conference_short: JSAC
@@ -29,10 +59,3 @@ main:
     conference: IEEE J. Sel. Areas Commun. (JSAC), vol. 40, no. 8, pp. 2395-2410, Aug. 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/9793704
     image: ./assets/img/JSAC_WirelessFL.png
-
-  - title: "Energy Efficiency of Two-Way Communications under Various Duplex Modes"
-    authors: <strong>Wei Guo</strong>, Han Zhang, Chuan Huang
-    conference_short: IoT-J
-    conference: IEEE Internet Things J. (IoT-J), vol. 8, no. 3, pp. 1921-1933, Feb. 2021.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9166529
-    image: ./assets/img/IOT_EE2WayChannel.png

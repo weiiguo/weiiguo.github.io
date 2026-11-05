@@ -1,4 +1,4 @@
-<h2 id="publications">Selected Journal Publications</h2>
+<h2 id="publications">Selected Publications</h2>
 <div class="publications">
   <ol class="bibliography" role="list">
     {% for publication in site.data.publications.main %}
@@ -10,7 +10,7 @@
       </div>
       {% endif %}
       <div class="publication-details">
-        <h3 class="publication-title"><a href="{{ publication.pdf }}">{{ publication.title }}</a></h3>
+        <h3 class="publication-title">{{ publication.title }}</h3>
         <p class="publication-authors">{{ publication.authors }}</p>
         <p class="publication-citation">{{ publication.conference }}</p>
         <div class="publication-links">

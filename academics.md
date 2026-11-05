@@ -55,9 +55,9 @@ title: Academics
 
 - Tianyi Liao, **Wei Guo**, Jun Qian, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Rethinking Mutual Coupling in Movable Antenna MIMO Systems](https://ieeexplore.ieee.org/abstract/document/11587618)", in Proc. IEEE Int. Conf. Commun., May 2026.
 
-- Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "[Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment](https://ieeexplore.ieee.org/abstract/document/11555232)", in Proc. IEEE Wireless Commun. Netw. Conf., Apr. 2026.
+- Yijie Bian, **Wei Guo**, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, and Khaled B. Letaief, "[Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment](https://ieeexplore.ieee.org/abstract/document/11555232)", in Proc. IEEE Wireless Commun. Netw. Conf. (WCNC), Apr. 2026.
 
-- Ran Li, Ziyi Xu, **Wei Guo**, Ying-Jun Angela Zhang, "[Divergence Meets Dispersion: Efficient Wideband Beam Training for XL-MIMO](https://ieeexplore.ieee.org/abstract/document/11555141)", in Proc. IEEE Wireless Commun. Netw. Conf., Apr. 2026. **Best Paper Award**{: .publication-honor-award }
+- Ran Li, Ziyi Xu, **Wei Guo**, Ying-Jun Angela Zhang, "[Divergence Meets Dispersion: Efficient Wideband Beam Training for XL-MIMO](https://ieeexplore.ieee.org/abstract/document/11555141)", in Proc. IEEE Wireless Commun. Netw. Conf. (WCNC), Apr. 2026. **Best Paper Award**{: .publication-honor-award }
 
 - Erqiang Tang, **Wei Guo**, Hengtao He, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Accurate and Fast Channel Estimation for Fluid Antenna Systems with Diffusion Models](https://ieeexplore.ieee.org/document/11432492)," in Proc. IEEE Glob. Commun. Conf. (Globecom), pp. 2066-2071, Dec. 2025.
 
