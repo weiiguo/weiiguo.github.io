@@ -15,6 +15,7 @@
         <p class="publication-citation">{{ publication.conference }}</p>
         <div class="publication-links">
           {% if publication.pdf %}<a class="paper-link" href="{{ publication.pdf }}" target="_blank" rel="noopener" aria-label="PDF: {{ publication.title | escape }}" title="Read PDF">PDF</a>{% endif %}
+          {% if publication.arxiv %}<a class="paper-link" href="{{ publication.arxiv }}" target="_blank" rel="noopener" aria-label="arXiv: {{ publication.title | escape }}">arXiv</a>{% endif %}
           {% if publication.code %}<a class="paper-link" href="{{ publication.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
           {% if publication.page %}<a class="paper-link" href="{{ publication.page }}" target="_blank" rel="noopener">Project Page</a>{% endif %}
           {% if publication.bibtex %}<a class="paper-link" href="{{ publication.bibtex }}" target="_blank" rel="noopener">BibTeX</a>{% endif %}

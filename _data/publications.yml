@@ -12,6 +12,7 @@ main:
     conference_short: TCCN
     conference: IEEE Trans. Cogn. Commun. Netw. (TCCN), vol. 12, pp. 9263-9278, 2026.
     pdf: https://ieeexplore.ieee.org/document/11575607
+    arxiv: https://arxiv.org/abs/2506.21112
     image: ./assets/img/TCCN_CKM.png
 
   - title: "Divergence Meets Dispersion: Efficient Wideband Beam Training for XL-MIMO"
@@ -27,6 +28,7 @@ main:
     conference_short: China Commun.
     conference: China Commun., vol. 23, no. 3, pp. 265-285, Mar. 2026.
     pdf: https://ieeexplore.ieee.org/abstract/document/11503159
+    arxiv: https://arxiv.org/abs/2409.07964
     code: https://github.com/jwentong/WirelessAgent_R1
     image: ./assets/img/ChinaCom_WirelessAgent.png
 
@@ -35,6 +37,7 @@ main:
     conference_short: JSAC
     conference: IEEE J. Sel. Areas Commun. (JSAC), vol.44, pp. 1209-1226, 2026.
     pdf: https://ieeexplore.ieee.org/document/11184595
+    arxiv: https://arxiv.org/abs/2503.04040
     code: https://github.com/liaotianyi0114/FAS-MIMO-WSR-Maximization
     image: ./assets/img/JSAC_FAS-MIMO.png
 
@@ -43,6 +46,7 @@ main:
     conference_short: JCIN
     conference: J. Commun. Inf. Netw. (JCIN), vol. 9, no. 2, pp. 99-112, Jun. 2024.
     pdf: https://ieeexplore.ieee.org/document/10582827
+    arxiv: https://arxiv.org/abs/2405.17053
     image: ./assets/img/JCIN_WirelessLLM.png
     award: Best Paper Award 2026
 
@@ -51,6 +55,7 @@ main:
     conference_short: TWC
     conference: IEEE Trans. Wireless Commun. (TWC), vol. 23, no. 2, pp. 1356-1371, Feb. 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10168186
+    arxiv: https://arxiv.org/abs/2205.09316
     image: ./assets/img/TWC_WirelessHFL.png
 
   - title: "Joint Device Selection and Power Control for Wireless Federated Learning"
@@ -58,4 +63,5 @@ main:
     conference_short: JSAC
     conference: IEEE J. Sel. Areas Commun. (JSAC), vol. 40, no. 8, pp. 2395-2410, Aug. 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/9793704
+    arxiv: https://arxiv.org/abs/2205.09306
     image: ./assets/img/JSAC_WirelessFL.png
