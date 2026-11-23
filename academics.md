@@ -12,6 +12,8 @@ title: Academics
 </div>
 
 ### Preprints
+- Yijie Bian, **Wei Guo**, Kai Zhang, Xiao Ye, Shurui Xu, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[SiGMA: Site-Grounded Multi-Modal ISAC Data Generation for Environment-Aware Communications](https://arxiv.org/abs/2611.20665)", 2026.
+
 - **Wei Guo**, Tianyi Liao, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Mutual-Coupling-Aware Joint Precoding and Antenna Positioning for Movable-Antenna MU-MIMO Systems](https://arxiv.org/abs/2611.04552)", 2026.
 
 - **Wei Guo**, Yaowen Zhang, Xingtong Ge, and Jun Zhang, "[Equal Path Cost, Unequal Output Effects: Understanding Perturbation Propagation in Diffusion Models](https://arxiv.org/abs/2610.11380)", 2026.
