@@ -12,6 +12,8 @@ title: Academics
 </div>
 
 ### Preprints
+- Erqiang Tang, Zixin Wang, **Wei Guo**, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Self-Supervised Operator Learning for Channel Estimation in Fluid Antenna Systems](https://arxiv.org/abs/2611.25756)", 2026.
+
 - Yijie Bian, **Wei Guo**, Kai Zhang, Xiao Ye, Shurui Xu, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[SiGMA: Site-Grounded Multi-Modal ISAC Data Generation for Environment-Aware Communications](https://arxiv.org/abs/2611.20665)", 2026.
 
 - **Wei Guo**, Tianyi Liao, Zixin Wang, Shenghui Song, Jun Zhang, and Khaled B. Letaief, "[Mutual-Coupling-Aware Joint Precoding and Antenna Positioning for Movable-Antenna MU-MIMO Systems](https://arxiv.org/abs/2611.04552)", 2026.
