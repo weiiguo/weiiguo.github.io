@@ -84,6 +84,7 @@ title: Academics
 {: .academic-publication-list }
 
 ## Awards
+- Best Paper Award at IEEE Globecom 2026.
 - Best Paper Award from Journal of Communications and Information Networks (2026).
 - Best Paper Award at IEEE WCNC 2026.
 - Exemplary Reviewer of IEEE Wireless Communications Letters (2020).
