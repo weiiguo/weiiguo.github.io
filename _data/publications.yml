@@ -6,6 +6,7 @@ main:
     conference: in Proc. IEEE Glob. Commun. Conf. (Globecom), Dec. 2026.
     pdf: https://arxiv.org/abs/2608.05896
     image: ./assets/img/Globecom2026_GSBF.png
+    award: Best Paper Award
 
   - title: "Point Cloud Environment-Based Channel Knowledge Map Construction"
     authors: Yancheng Wang, <strong>Wei Guo</strong>, Chuan Huang, Guanying Chen, Ye Zhang, Shuguang Cui
